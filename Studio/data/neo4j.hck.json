@@ -1,0 +1,987 @@
+{
+    "modelName": "New model",
+    "collections": [
+        {
+            "collectionName": "Match",
+            "type": "object",
+            "properties": [
+                {
+                    "code": "",
+                    "name": "date",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "childType": "temporal",
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "mode": "date",
+                    "GUID": "f7a7443b-82a2-450b-9c64-486553d01dfb",
+                    "required": true,
+                    "sample": "1999-06-20",
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "stage",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "33c0b4c8-1a6d-44aa-b738-f3ddeb6c93c3",
+                    "required": true,
+                    "sample": "Group Matches",
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "id",
+                    "isActivated": true,
+                    "exclusiveMinimum": false,
+                    "exclusiveMaximum": false,
+                    "primaryKey": false,
+                    "unique": true,
+                    "childType": "number",
+                    "type": "numeric",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "2e8b8f47-a078-4f9b-9ec0-956ad87f37e1",
+                    "required": true,
+                    "sample": 300438261,
+                    "error": {}
+                }
+            ],
+            "definitions": {
+                "type": "definitions",
+                "GUID": "a6551551-c17c-4000-ba3e-597cf755ffde",
+                "properties": []
+            },
+            "isActivated": true,
+            "additionalProperties": true,
+            "collectionUsers": [],
+            "GUID": "c455d243-9531-4f93-ad7f-7c0083332738",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "code": "",
+            "constraint": [],
+            "index": [
+                {
+                    "isActivated": true,
+                    "type": "RANGE",
+                    "GUID": "eb3e58d0-50a2-4242-9329-bad789ab0657",
+                    "name": "constraint_a016a763",
+                    "key": [
+                        {
+                            "keyId": "2e8b8f47-a078-4f9b-9ec0-956ad87f37e1"
+                        }
+                    ],
+                    "state": "ONLINE",
+                    "provider": "range-1.0"
+                }
+            ],
+            "hackoladeMeta": {
+                "validationErrors": {}
+            }
+        },
+        {
+            "collectionName": "Squad",
+            "type": "object",
+            "properties": [
+                {
+                    "code": "",
+                    "name": "id",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": true,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "22190d83-5d9b-480a-92a8-5f9bcaf8cee0",
+                    "required": true,
+                    "sample": "England in 2007",
+                    "error": {}
+                }
+            ],
+            "definitions": {
+                "type": "definitions",
+                "GUID": "f3a7e66b-8441-4948-aa20-248246d23cbd",
+                "properties": []
+            },
+            "isActivated": true,
+            "additionalProperties": true,
+            "collectionUsers": [],
+            "GUID": "9dfe18c3-e557-465b-a451-22f9181aadaa",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "code": "",
+            "constraint": [],
+            "index": [
+                {
+                    "isActivated": true,
+                    "type": "RANGE",
+                    "GUID": "952a00aa-afbb-4fad-80a0-a3dc2395579c",
+                    "name": "constraint_44e8cda2",
+                    "key": [
+                        {
+                            "keyId": "22190d83-5d9b-480a-92a8-5f9bcaf8cee0"
+                        }
+                    ],
+                    "state": "ONLINE",
+                    "provider": "range-1.0"
+                }
+            ],
+            "hackoladeMeta": {
+                "validationErrors": {}
+            }
+        },
+        {
+            "collectionName": "Team",
+            "type": "object",
+            "properties": [
+                {
+                    "code": "",
+                    "name": "name",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "466c33e8-566e-4d70-bf56-78e26d519af1",
+                    "required": true,
+                    "sample": "Japan",
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "id",
+                    "isActivated": true,
+                    "exclusiveMinimum": false,
+                    "exclusiveMaximum": false,
+                    "primaryKey": false,
+                    "unique": true,
+                    "childType": "number",
+                    "type": "numeric",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "4d71b2b3-2695-4288-b052-c1ae5f44b6aa",
+                    "required": true,
+                    "sample": 1888631,
+                    "error": {}
+                }
+            ],
+            "definitions": {
+                "type": "definitions",
+                "GUID": "d7d48a46-caf6-4351-8f7d-6f041572e180",
+                "properties": []
+            },
+            "isActivated": true,
+            "additionalProperties": true,
+            "collectionUsers": [],
+            "GUID": "f28dbeec-cbd1-40e0-9570-e19f33606834",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "code": "",
+            "constraint": [],
+            "index": [
+                {
+                    "isActivated": true,
+                    "type": "RANGE",
+                    "GUID": "c70a2a90-ad3d-4bf9-9562-88cbf755adc1",
+                    "name": "constraint_5101b27d",
+                    "key": [
+                        {
+                            "keyId": "4d71b2b3-2695-4288-b052-c1ae5f44b6aa"
+                        }
+                    ],
+                    "state": "ONLINE",
+                    "provider": "range-1.0"
+                }
+            ],
+            "hackoladeMeta": {
+                "validationErrors": {}
+            }
+        },
+        {
+            "collectionName": "Tournament",
+            "type": "object",
+            "properties": [
+                {
+                    "code": "",
+                    "name": "year",
+                    "isActivated": true,
+                    "exclusiveMinimum": false,
+                    "exclusiveMaximum": false,
+                    "primaryKey": false,
+                    "unique": false,
+                    "childType": "number",
+                    "type": "numeric",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "mode": "integer",
+                    "sample": 2011,
+                    "GUID": "ca283acc-a212-4786-b2c6-cd4ec42ad3f3",
+                    "required": true,
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "name",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "ee80bc41-3eda-4a78-aeac-5ea5f7129e43",
+                    "required": true,
+                    "sample": "Germany 2011",
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "id",
+                    "isActivated": true,
+                    "exclusiveMinimum": false,
+                    "exclusiveMaximum": false,
+                    "primaryKey": false,
+                    "unique": true,
+                    "childType": "number",
+                    "type": "numeric",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "81e38727-9549-4f50-b45b-41d319f2cab7",
+                    "required": true,
+                    "sample": 251475,
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "shortName",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "59d5d6f8-34f8-4101-9a7b-1394bf063787",
+                    "required": true,
+                    "sample": "germany2011",
+                    "error": {}
+                }
+            ],
+            "definitions": {
+                "type": "definitions",
+                "GUID": "894fba61-6478-4940-9c59-b31c72e5f5e6",
+                "properties": []
+            },
+            "isActivated": true,
+            "additionalProperties": true,
+            "collectionUsers": [],
+            "GUID": "d9f5cbcc-c608-46ca-b387-356af3921af9",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "code": "",
+            "constraint": [],
+            "index": [
+                {
+                    "isActivated": true,
+                    "type": "RANGE",
+                    "GUID": "0bd55275-13bf-4e66-a22e-0aedfa3794dc",
+                    "name": "constraint_5077b8d",
+                    "key": [
+                        {
+                            "keyId": "81e38727-9549-4f50-b45b-41d319f2cab7"
+                        }
+                    ],
+                    "state": "ONLINE",
+                    "provider": "range-1.0"
+                },
+                {
+                    "isActivated": true,
+                    "type": "RANGE",
+                    "GUID": "f246bed4-3bb9-4eb0-84b2-2f7df19a233a",
+                    "name": "index_36fcefdf",
+                    "key": [
+                        {
+                            "keyId": "59d5d6f8-34f8-4101-9a7b-1394bf063787"
+                        }
+                    ],
+                    "state": "ONLINE",
+                    "provider": "range-1.0"
+                }
+            ],
+            "hackoladeMeta": {
+                "validationErrors": {}
+            }
+        },
+        {
+            "collectionName": "Person",
+            "type": "object",
+            "properties": [
+                {
+                    "code": "",
+                    "name": "dob",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "childType": "temporal",
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "mode": "date",
+                    "GUID": "e3ee516e-787e-46d2-8af0-7ab04647795d",
+                    "required": true,
+                    "sample": "1979-05-12",
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "name",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "9d7dfa5b-c333-43c2-9a49-5623c794dd97",
+                    "required": true,
+                    "sample": "Dianne Alagich",
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "id",
+                    "isActivated": true,
+                    "exclusiveMinimum": false,
+                    "exclusiveMaximum": false,
+                    "primaryKey": false,
+                    "unique": true,
+                    "childType": "number",
+                    "type": "numeric",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "d891d61d-0aff-45f1-bb0c-dc53c129571e",
+                    "required": true,
+                    "sample": 277233,
+                    "error": {}
+                }
+            ],
+            "definitions": {
+                "type": "definitions",
+                "GUID": "08618a65-0eab-4695-96b3-11dfc9a1f2fc",
+                "properties": []
+            },
+            "isActivated": true,
+            "additionalProperties": true,
+            "collectionUsers": [],
+            "GUID": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "code": "",
+            "constraint": [],
+            "index": [
+                {
+                    "isActivated": true,
+                    "type": "RANGE",
+                    "GUID": "404e3532-ab0f-4106-892a-12aac52c4d30",
+                    "name": "constraint_50656458",
+                    "key": [
+                        {
+                            "keyId": "d891d61d-0aff-45f1-bb0c-dc53c129571e"
+                        }
+                    ],
+                    "state": "ONLINE",
+                    "provider": "range-1.0"
+                }
+            ],
+            "hackoladeMeta": {
+                "validationErrors": {}
+            }
+        }
+    ],
+    "buckets": [
+        {
+            "name": "neo4j",
+            "type": "bucket",
+            "collectionIds": [
+                "c455d243-9531-4f93-ad7f-7c0083332738",
+                "9dfe18c3-e557-465b-a451-22f9181aadaa",
+                "f28dbeec-cbd1-40e0-9570-e19f33606834",
+                "d9f5cbcc-c608-46ca-b387-356af3921af9",
+                "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6"
+            ],
+            "backgroundColor": {
+                "r": 216,
+                "g": 0,
+                "b": 115,
+                "a": 1
+            },
+            "show": true,
+            "isActivated": true,
+            "indexes": [],
+            "GUID": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "hackoladeMeta": {},
+            "code": "",
+            "addFieldsToBucket": true,
+            "isPlugin": true
+        }
+    ],
+    "views": [],
+    "relationships": [
+        {
+            "name": "NAMED",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "17e9548a-7b94-4ecf-a7b9-baa30ffbaa73",
+            "level": "entity",
+            "parentCollection": "f28dbeec-cbd1-40e0-9570-e19f33606834",
+            "childCollection": "9dfe18c3-e557-465b-a451-22f9181aadaa",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": []
+        },
+        {
+            "name": "SCORED_GOAL",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "d879ac83-87dc-45a6-803d-b93adf3c3077",
+            "level": "entity",
+            "parentCollection": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+            "childCollection": "c455d243-9531-4f93-ad7f-7c0083332738",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": [
+                {
+                    "code": "",
+                    "name": "minute",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "78f5e00b-476c-4a31-83bb-c8be3c87c207",
+                    "required": true,
+                    "sample": "40'",
+                    "error": {}
+                }
+            ]
+        },
+        {
+            "name": "PARTICIPATED_IN",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "7eacb572-f80d-446c-bfa6-5b6b6aef68cc",
+            "level": "entity",
+            "parentCollection": "f28dbeec-cbd1-40e0-9570-e19f33606834",
+            "childCollection": "d9f5cbcc-c608-46ca-b387-356af3921af9",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": []
+        },
+        {
+            "name": "IN_TOURNAMENT",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "9aed9f0b-439c-46a2-a59e-0fb531564554",
+            "level": "entity",
+            "parentCollection": "c455d243-9531-4f93-ad7f-7c0083332738",
+            "childCollection": "d9f5cbcc-c608-46ca-b387-356af3921af9",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": []
+        },
+        {
+            "name": "COACH_FOR",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "6373853e-3a87-4716-a872-df2d0f96f825",
+            "level": "entity",
+            "parentCollection": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+            "childCollection": "9dfe18c3-e557-465b-a451-22f9181aadaa",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": []
+        },
+        {
+            "name": "FOR",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "673b510e-5794-4841-9f20-8802c718b17c",
+            "level": "entity",
+            "parentCollection": "9dfe18c3-e557-465b-a451-22f9181aadaa",
+            "childCollection": "d9f5cbcc-c608-46ca-b387-356af3921af9",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": []
+        },
+        {
+            "name": "PLAYED_IN",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "9ecf2757-aecf-439c-bc98-b313daf33dd6",
+            "level": "entity",
+            "parentCollection": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+            "childCollection": "c455d243-9531-4f93-ad7f-7c0083332738",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": [
+                {
+                    "code": "",
+                    "name": "type",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "70ce3759-b3c3-436e-9119-3992da7c5cd0",
+                    "required": true,
+                    "sample": "Started",
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "minuteOn",
+                    "isActivated": true,
+                    "primaryKey": false,
+                    "unique": false,
+                    "type": "string",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "GUID": "9b0afaf9-d7a8-4daf-8522-ce89ad8dd534",
+                    "required": false,
+                    "sample": "74'",
+                    "error": {}
+                }
+            ]
+        },
+        {
+            "name": "PLAYED_IN",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "61a08a52-7b97-4d4e-a4bb-2ebac1ca2a3e",
+            "level": "entity",
+            "parentCollection": "f28dbeec-cbd1-40e0-9570-e19f33606834",
+            "childCollection": "c455d243-9531-4f93-ad7f-7c0083332738",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": [
+                {
+                    "code": "",
+                    "name": "score",
+                    "isActivated": true,
+                    "exclusiveMinimum": false,
+                    "exclusiveMaximum": false,
+                    "primaryKey": false,
+                    "unique": false,
+                    "childType": "number",
+                    "type": "numeric",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "mode": "integer",
+                    "sample": 4,
+                    "GUID": "d5386051-d704-484a-a693-6d06b9d51e86",
+                    "required": true,
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "penaltyScore",
+                    "isActivated": true,
+                    "exclusiveMinimum": false,
+                    "exclusiveMaximum": false,
+                    "primaryKey": false,
+                    "unique": false,
+                    "childType": "number",
+                    "type": "numeric",
+                    "compositeKey": [
+                        "compositeNodeKey"
+                    ],
+                    "compositeNodeKey": false,
+                    "mode": "integer",
+                    "sample": 1,
+                    "GUID": "e437c09e-20c1-4754-a946-a18aa52bff7f",
+                    "required": false,
+                    "error": {}
+                }
+            ]
+        },
+        {
+            "name": "REPRESENTS",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "0e71fab5-69f2-4d7a-837e-ef0e53f886a0",
+            "level": "entity",
+            "parentCollection": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+            "childCollection": "f28dbeec-cbd1-40e0-9570-e19f33606834",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": []
+        },
+        {
+            "name": "IN_SQUAD",
+            "parentField": [],
+            "parentCardinality": "1",
+            "childField": [],
+            "isActivated": true,
+            "childCardinality": "1",
+            "GUID": "1060b86c-087a-41ae-b89d-b072bad51011",
+            "level": "entity",
+            "parentCollection": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+            "childCollection": "9dfe18c3-e557-465b-a451-22f9181aadaa",
+            "bucketId": "0f127ac8-58fc-426a-9ac5-36c1b3336536",
+            "lineSize": 2,
+            "properties": []
+        }
+    ],
+    "users": [],
+    "diagramViews": [],
+    "idToNameHashTable": {
+        "0f127ac8-58fc-426a-9ac5-36c1b3336536": "neo4j",
+        "f7a7443b-82a2-450b-9c64-486553d01dfb": "date",
+        "33c0b4c8-1a6d-44aa-b738-f3ddeb6c93c3": "stage",
+        "2e8b8f47-a078-4f9b-9ec0-956ad87f37e1": "id",
+        "c455d243-9531-4f93-ad7f-7c0083332738": "Match",
+        "22190d83-5d9b-480a-92a8-5f9bcaf8cee0": "id",
+        "9dfe18c3-e557-465b-a451-22f9181aadaa": "Squad",
+        "466c33e8-566e-4d70-bf56-78e26d519af1": "name",
+        "4d71b2b3-2695-4288-b052-c1ae5f44b6aa": "id",
+        "f28dbeec-cbd1-40e0-9570-e19f33606834": "Team",
+        "ca283acc-a212-4786-b2c6-cd4ec42ad3f3": "year",
+        "ee80bc41-3eda-4a78-aeac-5ea5f7129e43": "name",
+        "81e38727-9549-4f50-b45b-41d319f2cab7": "id",
+        "59d5d6f8-34f8-4101-9a7b-1394bf063787": "shortName",
+        "d9f5cbcc-c608-46ca-b387-356af3921af9": "Tournament",
+        "e3ee516e-787e-46d2-8af0-7ab04647795d": "dob",
+        "9d7dfa5b-c333-43c2-9a49-5623c794dd97": "name",
+        "d891d61d-0aff-45f1-bb0c-dc53c129571e": "id",
+        "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6": "Person",
+        "17e9548a-7b94-4ecf-a7b9-baa30ffbaa73": "NAMED",
+        "d879ac83-87dc-45a6-803d-b93adf3c3077": "SCORED_GOAL",
+        "7eacb572-f80d-446c-bfa6-5b6b6aef68cc": "PARTICIPATED_IN",
+        "9aed9f0b-439c-46a2-a59e-0fb531564554": "IN_TOURNAMENT",
+        "6373853e-3a87-4716-a872-df2d0f96f825": "COACH_FOR",
+        "673b510e-5794-4841-9f20-8802c718b17c": "FOR",
+        "9ecf2757-aecf-439c-bc98-b313daf33dd6": "PLAYED_IN",
+        "61a08a52-7b97-4d4e-a4bb-2ebac1ca2a3e": "PLAYED_IN",
+        "0e71fab5-69f2-4d7a-837e-ef0e53f886a0": "REPRESENTS",
+        "1060b86c-087a-41ae-b89d-b072bad51011": "IN_SQUAD",
+        "78f5e00b-476c-4a31-83bb-c8be3c87c207": "minute",
+        "70ce3759-b3c3-436e-9119-3992da7c5cd0": "type",
+        "9b0afaf9-d7a8-4daf-8522-ce89ad8dd534": "minuteOn",
+        "d5386051-d704-484a-a693-6d06b9d51e86": "score",
+        "e437c09e-20c1-4754-a946-a18aa52bff7f": "penaltyScore"
+    },
+    "definitions": {
+        "type": "definitions",
+        "properties": [],
+        "GUID": "1d4658ec-cdec-43aa-a54c-40c05b4ff6f5"
+    },
+    "polyglotDefinitions": {
+        "type": "polyglotDefinitions",
+        "properties": [],
+        "GUID": "cf0d0505-54e0-4e6b-9433-e7f9359bc61f"
+    },
+    "externalDefinitions": {
+        "type": "externalDefinitions",
+        "properties": [],
+        "GUID": "b2dcacd0-a93f-42e5-a3a7-337be35a47d6"
+    },
+    "sources": [],
+    "decorativeSymbols": [],
+    "dbVersion": "5.x",
+    "dbVendor": "Neo4j",
+    "appTarget": "NEO4J",
+    "creationTS": "2023-07-20T08:57:47.331Z",
+    "GUID": "241dde1a-922c-444f-8157-439efe51eaad",
+    "isLineageEnabled": false,
+    "lastModifTS": "2023-07-20T09:06:52.198Z",
+    "persistenceSchemaVersion": "6",
+    "isCreatedByPlugin": true,
+    "pluginInformation": {
+        "pluginName": "Neo4j",
+        "pluginVersion": "0.1.50",
+        "pluginEngineVersion": "1.0.0"
+    },
+    "applicationInformation": {
+        "version": "6.10.12"
+    },
+    "hackoladeMeta": {},
+    "settings": {
+        "centralPane": {
+            "dbLevel": {
+                "erd": [
+                    {
+                        "GUID": "c455d243-9531-4f93-ad7f-7c0083332738",
+                        "x": 1050,
+                        "y": 1424,
+                        "width": 203,
+                        "height": 83,
+                        "color": {
+                            "hex": "#2196F3"
+                        }
+                    },
+                    {
+                        "GUID": "9dfe18c3-e557-465b-a451-22f9181aadaa",
+                        "x": 1952,
+                        "y": 1050,
+                        "width": 193,
+                        "height": 47,
+                        "color": {
+                            "hex": "#2196F3"
+                        }
+                    },
+                    {
+                        "GUID": "f28dbeec-cbd1-40e0-9570-e19f33606834",
+                        "x": 1946,
+                        "y": 1407,
+                        "width": 204,
+                        "height": 65,
+                        "color": {
+                            "hex": "#2196F3"
+                        }
+                    },
+                    {
+                        "GUID": "d9f5cbcc-c608-46ca-b387-356af3921af9",
+                        "x": 2539,
+                        "y": 1164.5,
+                        "width": 241,
+                        "height": 101,
+                        "color": {
+                            "hex": "#2196F3"
+                        }
+                    },
+                    {
+                        "GUID": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+                        "x": 1345,
+                        "y": 1221,
+                        "width": 203,
+                        "height": 83,
+                        "color": {
+                            "hex": "#2196F3"
+                        }
+                    },
+                    {
+                        "GUID": "17e9548a-7b94-4ecf-a7b9-baa30ffbaa73",
+                        "x": 1966,
+                        "y": 1307,
+                        "width": 164,
+                        "height": 30,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "d879ac83-87dc-45a6-803d-b93adf3c3077",
+                        "x": 1344,
+                        "y": 1444,
+                        "width": 205,
+                        "height": 45,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "7eacb572-f80d-446c-bfa6-5b6b6aef68cc",
+                        "x": 2235,
+                        "y": 1290,
+                        "width": 219,
+                        "height": 30,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "9aed9f0b-439c-46a2-a59e-0fb531564554",
+                        "x": 1640,
+                        "y": 1350,
+                        "width": 221,
+                        "height": 30,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "6373853e-3a87-4716-a872-df2d0f96f825",
+                        "x": 1656,
+                        "y": 1050,
+                        "width": 190,
+                        "height": 30,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "673b510e-5794-4841-9f20-8802c718b17c",
+                        "x": 2269,
+                        "y": 1050,
+                        "width": 151,
+                        "height": 30,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "9ecf2757-aecf-439c-bc98-b313daf33dd6",
+                        "x": 1061,
+                        "y": 1291,
+                        "width": 182,
+                        "height": 63,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "61a08a52-7b97-4d4e-a4bb-2ebac1ca2a3e",
+                        "x": 1338,
+                        "y": 1559,
+                        "width": 217,
+                        "height": 63,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "0e71fab5-69f2-4d7a-837e-ef0e53f886a0",
+                        "x": 1655,
+                        "y": 1250,
+                        "width": 192,
+                        "height": 30,
+                        "color": {}
+                    },
+                    {
+                        "GUID": "1060b86c-087a-41ae-b89d-b072bad51011",
+                        "x": 1661,
+                        "y": 1150,
+                        "width": 180,
+                        "height": 30,
+                        "color": {}
+                    }
+                ],
+                "erdDefinitions": {
+                    "erd": [],
+                    "rootPath": [],
+                    "entities": [],
+                    "decorativeSymbols": []
+                },
+                "buckets": [
+                    {
+                        "x": 1000,
+                        "y": 1000,
+                        "GUID": "0f127ac8-58fc-426a-9ac5-36c1b3336536"
+                    }
+                ],
+                "collapsedNodes": [],
+                "activeRelationship": "",
+                "activeRelationshipFields": {
+                    "childField": [],
+                    "parentField": []
+                },
+                "selectedCollections": [],
+                "displayColorPicker": false,
+                "graphView": {
+                    "erd": [
+                        {
+                            "GUID": "c455d243-9531-4f93-ad7f-7c0083332738",
+                            "size": 100,
+                            "x": 1370.1090869259622,
+                            "y": 1232.739142577573
+                        },
+                        {
+                            "GUID": "9dfe18c3-e557-465b-a451-22f9181aadaa",
+                            "size": 100,
+                            "x": 754.4971304877222,
+                            "y": 1283.6893829980452
+                        },
+                        {
+                            "GUID": "f28dbeec-cbd1-40e0-9570-e19f33606834",
+                            "size": 100,
+                            "x": 1056.9498684210891,
+                            "y": 1229.5856232337994
+                        },
+                        {
+                            "GUID": "d9f5cbcc-c608-46ca-b387-356af3921af9",
+                            "size": 100,
+                            "x": 1033.0762354919775,
+                            "y": 920.9628500088221
+                        },
+                        {
+                            "GUID": "495e06ca-fd67-4eb5-b3fb-a4d9d275dff6",
+                            "size": 100,
+                            "x": 1085.0656991842018,
+                            "y": 1554.1905830301764
+                        }
+                    ],
+                    "buckets": [
+                        {
+                            "x": 713.3666066551054,
+                            "y": 880.3151572033439,
+                            "GUID": "0f127ac8-58fc-426a-9ac5-36c1b3336536"
+                        }
+                    ],
+                    "decorativeSymbols": [],
+                    "forceLayout": true,
+                    "defaultLinkLength": 400
+                },
+                "diagramViews": [],
+                "decorativeSymbols": [],
+                "nestedCollectionsLayout": "horizontal",
+                "options": [],
+                "relationshipUpdateDisabled": false,
+                "displayOptions": {
+                    "dndHandles": false
+                }
+            },
+            "collectionLevel": {},
+            "changed": false
+        },
+        "dtDiagram": {
+            "collapsedNodes": [],
+            "shouldDistributeCollections": false
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "info": {
+        "type": "Hackolade naming convention options",
+        "target": "NEO4J"
+    },
+    "options": {
+        "nameCoupling": "no",
+        "conversionSource": {
+            "type": "withoutFile",
+            "pathToFile": ""
+        },
+        "displayName": "business",
+        "businessToTechnicalConversion": {
+            "removeVowels": true,
+            "invalidCharacters": "!?.:;()=+-*@/\\>'",
+            "invalidCharactersAction": "ignore",
+            "replaceInvalidCharactersBy": "_",
+            "caseType": "none"
+        },
+        "technicalToBusinessConversion": {
+            "caseType": "none"
+        }
+    }
+}
