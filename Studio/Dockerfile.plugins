@@ -61,4 +61,3 @@ RUN installPlugin.sh Synapse
 USER root
 RUN apt-get remove curl unzip zip -y
 USER $USERNAME
-ß∑

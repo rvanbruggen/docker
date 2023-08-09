@@ -1096,3 +1096,2198 @@ Major Version: undefined
 Minor Version: undefined
 Application version: 6.10.12
 
+Wed Aug 09 2023 12:14:37 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:14:37 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:14:46 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:14:46 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>694748bb-7db8-44a7-9a8b-eb494435a8ef</computerID> <computerKey>VMP90E07004GH1JK8N91216IMQU2PJXF4UXQ7CR</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:14:46 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:16:28 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:16:28 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:16:33 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:16:33 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>694748bb-7db8-44a7-9a8b-eb494435a8ef</computerID> <computerKey>VMP90E07004GH1JK8N91216E2NINB7TRBZR5BHD</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:16:33 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:19:33 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:19:33 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:19:40 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:19:40 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:19:40 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>694748bb-7db8-44a7-9a8b-eb494435a8ef</computerID> <computerKey>VMP90E07004GH1JK8N91216JETVPHVDK5IEUNUR</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:19:40 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:22:30 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:22:31 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:22:35 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:22:35 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>694748bb-7db8-44a7-9a8b-eb494435a8ef</computerID> <computerKey>VMP90E07004GH1JK8N91216TCF9Z53PE5RX5SD3</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:22:35 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:23:08 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:23:09 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:23:15 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:23:15 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:23:16 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>694748bb-7db8-44a7-9a8b-eb494435a8ef</computerID> <computerKey>VMP90E07004GH1JK8N91216DRDCMD3VGW7JSVW5</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:23:16 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:27:23 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:27:24 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:27:30 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:27:31 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:27:31 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>694748bb-7db8-44a7-9a8b-eb494435a8ef</computerID> <computerKey>VMP90E07004GH1JK8N91216NTPPPRJAI4RJ3A99</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:27:31 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 694748bb-7db8-44a7-9a8b-eb494435a8ef
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:32:22 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:32:22 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:32:31 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:32:31 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:32:31 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216KWTS87AIFS4S35GH</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:32:31 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:32:52 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:32:53 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:32:59 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:32:59 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:33:00 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216RH2X8Q5HDKRCM4TE</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:33:00 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:33:13 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:33:14 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:33:16 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:33:16 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216QSNEKRRKIGSZ2C5H</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:33:16 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:34:18 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:34:19 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:34:21 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:34:21 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216CFMIG7YECW96QDQQ</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:34:21 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:36:32 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:36:33 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:36:40 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:36:40 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:36:40 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216FW8HPRWZKCP9N3D2</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:36:40 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:37:02 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:37:03 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:37:05 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:37:05 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216KCZQ5YN4FU5P6CHW</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:37:05 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:47:54 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:47:55 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:47:56 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:47:57 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216K5EZF6GGTSPBDS7T</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:47:57 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:48:20 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:48:21 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:48:21 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:48:21 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216QN28GWHMTKR89N6N</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:48:21 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:50:43 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:50:43 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:50:50 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:50:50 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:50:50 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216R9E4EFTZDQIR6FXC</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:50:50 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:51:09 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:51:09 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:51:16 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:51:16 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:51:16 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216FAJR4QCZP2PUVKUU</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:51:16 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:51:47 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:51:48 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 12:51:50 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 12:51:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216IEKGBB5DA55UPQJT</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 12:51:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:31:00 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:31:00 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:31:04 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:31:04 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216APEDAAAGBV7EDVSX</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:31:04 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:31:47 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:31:48 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:31:51 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:31:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216EWFIZDQSSA5CNA2M</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:31:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:32:59 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:00 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:33:05 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:06 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:06 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216CW6MSWN9IXF7XTNG</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:33:06 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:33:27 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:28 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:33:34 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:34 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:34 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216CIJ7PNIBF4FN2XWG</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:33:34 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:33:54 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:54 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:33:57 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:33:57 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216FWVYPI87AMPYJ6RY</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:33:57 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:39:05 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:06 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:39:12 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:12 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:12 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216Q8DT787NBRZ4G3BF</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:39:12 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:39:21 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:22 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:39:28 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:28 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:29 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216NM6RVBV6SGFX2MV5</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:39:29 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:39:40 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:41 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:39:47 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:47 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:47 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216BWBMHHSUN8RF27ZS</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:39:47 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:39:55 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:39:56 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:02 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:02 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:02 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216JBANC6QMS9MYCR3N</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:40:02 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:11 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:11 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:18 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:18 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:18 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216GFW7IS2JP7VEJC4Y</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:40:18 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:32 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:32 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:35 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:35 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216JKZJDDI5CQYFFRYY</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:40:35 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:44 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:45 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:47 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:47 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216PVMMS4Y2MPN7X52T</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:40:47 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:56 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:56 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:40:58 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:40:58 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216HADDHYD8E6VFFWSV</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:40:58 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:41:08 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:41:08 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:41:10 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:41:10 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216IFXS9T6FTWK48T8S</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:41:10 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:41:45 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:41:45 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:41:48 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:41:48 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216HAV5S3M6SG7ABGQD</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:41:48 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:43:29 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:43:30 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:43:32 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:43:32 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216SDDQ64UEAFIQXDA3</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:43:32 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:43:40 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:43:41 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:43:43 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:43:43 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216PGHECAV8CVR97FIM</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:43:43 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:43:51 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:43:51 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:43:53 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:43:53 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216J78T23S6C5AGDK9I</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:43:53 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:44:02 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:44:02 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:44:04 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:44:04 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216H5JQGJ67A2VKF8QA</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:44:04 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:44:33 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:44:33 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:44:53 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:44:53 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216KNYRBZWGF69IDXBN</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:44:53 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:45:11 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:45:11 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 13:45:36 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 13:45:37 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216REV9MVMJGF3TDXUG</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 13:45:37 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 14:09:10 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 14:09:11 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 14:09:12 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 14:09:12 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216S8IHXB9WHHKVU776</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 14:09:12 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 14:09:48 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 14:09:49 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
+Wed Aug 09 2023 14:09:51 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 14:09:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5cbd707b-8309-4887-95f3-c7ee4f3d6692</computerID> <computerKey>VMP90E07004GH1JK8N91216QHT887TEP995I8IV</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Aug 09 2023 14:09:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.10.15
+
+Wed Aug 09 2023 14:10:13 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Aug 09 2023 14:10:13 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 53 days.
+Expiry Date: Sat Sep 30 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5cbd707b-8309-4887-95f3-c7ee4f3d6692
+Computer Key: 
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.10.15
+
