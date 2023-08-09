@@ -6,8 +6,8 @@ Information from our manual about the CLI:
 
 Information about the docker configuration on https://hackolade.com/help/Dockercontainer.html, which refers to detailed instructions on https://github.com/hackolade/docker/tree/main/Studio
 
-Cloned that repo on my local machine in /Users/rvanbruggen/Documents/GitHub/docker/
-All the commands below are run from /Users/rvanbruggen/Documents/GitHub/docker/Studio
+Cloned that repo on my local machine in `/Users/rvanbruggen/Documents/GitHub/docker/`
+All the commands below are run from `/Users/rvanbruggen/Documents/GitHub/docker/Studio`
 
 ## 1. Building the image
 ```
