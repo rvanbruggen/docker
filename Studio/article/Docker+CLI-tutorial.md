@@ -1,8 +1,23 @@
 # Running the Hackolade Command-line-interface in a Docker container
 
-Information from our manual about the CLI: 
-* high level on https://hackolade.com/help/IntegratetheCLIwithDevOpsCICDpip.html
-* detail on https://hackolade.com/help/CommandLineInterface.html
+## Some context: Metadata-as-code
+One of the big pillars of Hackolade and the Hackolade Studio's architecture and functionality, has been the fact that we subscribe to the principles of [Metadata as code](https://hackolade.com/metadata-as-code.html). This is super important to us, as we try to make sure that the walls between different data modeling stakeholders are torn down, and models are forever kept up to date.
+
+![](https://hackolade.com/img/metadata-as-code-_infinity_loop.png)
+
+As we have discussed elsewhere, (eg. [over here](https://hackolade.com/help/Repository.html) and [over here](https://community.hackolade.com/slides/hackolade-studio-tutorial-5-workgroup-collaboration-and-versioning-5)), Hackolade's integration with GIT repositories is super important, as it enables new and innovative levels of automation and integration.
+
+
+## About the Hackolade Command Line Interface
+One of the key components to making this happen, is the [Hackolade Command Line Interface](https://hackolade.com/help/CommandLineInterface.html). In and of itself, this is super interesting, as it allows for the automation of many functionalities using a simple to understand script. You can call that script from the terminal of your workstation where Hackolade is installed.
+
+You can find more information about the CLI in our manual: 
+* [high level information](https://hackolade.com/help/IntegratetheCLIwithDevOpsCICDpip.html)
+* [detailed information](https://hackolade.com/help/CommandLineInterface.html)
+
+Now, the interesting about this is that we can not only run this on the workstation where you have Hackolade installed, but you can also install Hackolade in a Docker container - and trigger it to be run as part of that environment. This is what we would like to show and explain in this article. 
+
+## About the Hackolade CLI, inside a Docker Container
 
 Information about the docker configuration on https://hackolade.com/help/Dockercontainer.html, which refers to detailed instructions on https://github.com/hackolade/docker/tree/main/Studio
 
