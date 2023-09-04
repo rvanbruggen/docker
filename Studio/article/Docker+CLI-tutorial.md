@@ -23,10 +23,7 @@ Now, the interesting about this is that we can not only run this on the workstat
 to achieve a very similar result. It's super powerful.
 
 
-<img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" width=150>
-<img src=https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" width=150>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" width=150>
-<img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg" width=150>
+<img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" width=150><img src=https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" width=150><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" width=150><img src="https://docs.gitlab.com/assets/images/gitlab-logo-header.svg" width=150>
 
 In this article, therefore, we would like to show and explain to you how you can use the Hackolade CLI in a Docker container - so that you can achieve the end-2-end automation yourself using the technologies mentioned above.
 
