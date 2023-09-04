@@ -84,3 +84,9 @@ docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Docume
 The above example shows how to run different scenario commands from the Hackolade Command-Line-Interface installed in a Docker container. 
 
 This can be tied into an entire DevOps pipeline using workflow automation like for example Github Actions: see for example https://docs.github.com/en/actions/creating-actions/about-custom-actions and https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action. This allows for automated and increased governance processes on top of our data models and schemas.
+
+
+
+
+
+## 5. Working with a Cron-job
