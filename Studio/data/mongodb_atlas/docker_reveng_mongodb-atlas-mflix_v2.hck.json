@@ -11,10 +11,10 @@
                     "isActivated": true,
                     "type": "objectId",
                     "primaryKey": true,
-                    "GUID": "f6548f8f-0e01-45e5-8cd9-c852cc1c3cd0",
+                    "GUID": "67726774-e5ec-4bcc-b7b4-5771cedc9b53",
                     "required": true,
                     "childRelationships": [
-                        "81384664-b001-45f2-b42d-f35f71d177bc"
+                        "7f28c008-3935-4ec8-9ea5-3d82efa9638b"
                     ],
                     "error": {}
                 },
@@ -24,9 +24,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "aa576f6c-3013-4d3a-9478-10a7ccd1d7d8",
-                    "required": false,
-                    "sample": "A fragile Kansas girl's unrequited and forbidden love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.",
+                    "GUID": "578806bb-46fe-4445-aec9-74cf35ba0a89",
+                    "required": true,
+                    "sample": "Three friends discover a mysterious machine that takes pictures 24hrs into the future and conspire to use it for personal gain, until disturbing and dangerous images begin to develop.",
                     "error": {}
                 },
                 {
@@ -39,15 +39,15 @@
                             "hackoladeMeta": {},
                             "isActivated": true,
                             "type": "string",
-                            "GUID": "5a3cb6a9-737f-4317-b0c8-1fea7b8c9e4a",
+                            "GUID": "a5918a1a-fb84-40f2-9f69-3ae8bd8c425d",
                             "arrayItem": true,
-                            "sample": "Action",
+                            "sample": "Drama",
                             "error": {}
                         }
                     ],
                     "additionalItems": true,
                     "primaryKey": false,
-                    "GUID": "5367d012-a55c-4644-91aa-3fc2976cc6f5",
+                    "GUID": "f9bdf884-c25e-42e8-beec-668dc130f099",
                     "required": true,
                     "error": {}
                 },
@@ -57,10 +57,10 @@
                     "isActivated": true,
                     "type": "numeric",
                     "primaryKey": false,
-                    "GUID": "6026b85c-5098-4431-9fc6-aaa9ef2fde64",
+                    "GUID": "525cf4e9-4b0d-4d24-85bb-dcd296af3107",
                     "required": true,
                     "mode": "integer32",
-                    "sample": 124,
+                    "sample": 153,
                     "error": {}
                 },
                 {
@@ -73,15 +73,15 @@
                             "hackoladeMeta": {},
                             "isActivated": true,
                             "type": "string",
-                            "GUID": "92769ad4-d8e2-432f-b254-4fe3bd6d1239",
+                            "GUID": "fe163c1a-c221-4b32-a16a-53c4d4d8a64d",
                             "arrayItem": true,
-                            "sample": "Hiroyuki Sanada",
+                            "sample": "Franco Nero",
                             "error": {}
                         }
                     ],
                     "additionalItems": true,
                     "primaryKey": false,
-                    "GUID": "9cabc390-9169-46b9-bd9a-50ed92770d24",
+                    "GUID": "64e3665a-d3cc-4610-8a0d-50b5f860acd1",
                     "required": true,
                     "error": {}
                 },
@@ -91,7 +91,7 @@
                     "isActivated": true,
                     "type": "numeric",
                     "primaryKey": false,
-                    "GUID": "3b25943b-6df0-41f5-8f3d-d9ca5521d30c",
+                    "GUID": "4913581f-8e3a-4589-9ad2-d22820b3f160",
                     "required": true,
                     "mode": "integer32",
                     "sample": 2,
@@ -103,9 +103,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "811c9e5d-c5ef-4a94-bc64-00f26629a0c4",
+                    "GUID": "f225b9aa-40e6-4047-9ae2-df12855249aa",
                     "required": true,
-                    "sample": "Splendor in the Grass",
+                    "sample": "Time Lapse",
                     "error": {}
                 },
                 {
@@ -114,9 +114,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "433ad620-dca9-4c4e-b24e-f17175dfc654",
-                    "required": false,
-                    "sample": "It's 1928 in oil rich southeast Kansas. High school seniors Bud Stamper and Deanie Loomis are in love with each other. Bud, the popular football captain, and Deanie, the sensitive soul, are \"good\" kids who have only gone as far as kissing. Unspoken to each other, they expect to get married to each other one day. But both face pressures within the relationship, Bud who has the urges to go farther despite knowing in his heart that if they do that Deanie will end up with a reputation like his own sister, Ginny Stamper, known as the loose, immoral party girl, and Deanie who will do anything to hold onto Bud regardless of the consequences. They also face pressures from their parents who have their own expectation for their offspring. Bud's overbearing father, Ace Stamper, the local oil baron, does not believe Bud can do wrong and expects him to go to Yale after graduation, which does not fit within Bud's own expectations for himself. And the money and image conscious Mrs. Loomis just wants Deanie to get married as soon as possible to Bud so that Deanie will have a prosperous life in a rich family. When Bud makes a unilateral decision under these pressures, it leads to a path which affects both his and Deanie's future.",
+                    "GUID": "adc875e9-d79d-4e5c-91fa-122cdf51ebc0",
+                    "required": true,
+                    "sample": "Three friends discover a mysterious machine that takes pictures 24hrs into the future and conspire to use it for personal gain, until disturbing and dangerous images begin to develop.",
                     "error": {}
                 },
                 {
@@ -129,15 +129,15 @@
                             "hackoladeMeta": {},
                             "isActivated": true,
                             "type": "string",
-                            "GUID": "0735e139-a925-4a42-9aec-e8f3fb2f0ebb",
+                            "GUID": "44781266-7e44-4e70-b303-6362596b8106",
                             "arrayItem": true,
-                            "sample": "Japan",
+                            "sample": "Italy",
                             "error": {}
                         }
                     ],
                     "additionalItems": true,
                     "primaryKey": false,
-                    "GUID": "b3ce53e6-b7ad-49d8-9393-91ea9675027c",
+                    "GUID": "59456350-bc44-45e7-b96c-ea79a33ae8da",
                     "required": true,
                     "error": {}
                 },
@@ -147,8 +147,8 @@
                     "isActivated": true,
                     "type": "date",
                     "primaryKey": false,
-                    "GUID": "eb33c543-8ec1-4bfb-a568-51139df6e28b",
-                    "required": false,
+                    "GUID": "c25f4471-c0c3-432c-981e-4d50b8476c46",
+                    "required": true,
                     "error": {}
                 },
                 {
@@ -161,15 +161,15 @@
                             "hackoladeMeta": {},
                             "isActivated": true,
                             "type": "string",
-                            "GUID": "8e59c0dd-e4cf-4bde-a719-9931bc25319e",
+                            "GUID": "402665b1-a496-49b6-b2d1-d21d3a6872be",
                             "arrayItem": true,
-                            "sample": "Kèsei Saitè",
+                            "sample": "Giuliano Montaldo",
                             "error": {}
                         }
                     ],
                     "additionalItems": true,
                     "primaryKey": false,
-                    "GUID": "654da373-96d2-4f44-84a5-154567550e79",
+                    "GUID": "f2a207e8-3179-4321-aa42-31daa873e77b",
                     "required": true,
                     "error": {}
                 },
@@ -179,9 +179,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "0c64890e-e339-4b2e-9051-75f06a6d0a10",
+                    "GUID": "2bb149a0-d542-463e-a436-20eb10503d87",
                     "required": false,
-                    "sample": "UNRATED",
+                    "sample": "PG-13",
                     "error": {}
                 },
                 {
@@ -196,10 +196,10 @@
                             "isActivated": true,
                             "type": "numeric",
                             "primaryKey": false,
-                            "GUID": "d9a230c4-6415-495c-922b-b434d4b5a78f",
+                            "GUID": "81452c13-b3b3-4c7f-a693-96c17d277409",
                             "required": true,
                             "mode": "integer32",
-                            "sample": 5,
+                            "sample": 16,
                             "error": {}
                         },
                         {
@@ -208,10 +208,10 @@
                             "isActivated": true,
                             "type": "numeric",
                             "primaryKey": false,
-                            "GUID": "2a479c68-5dab-41eb-9d14-0571231517d5",
+                            "GUID": "2664ece7-f375-4279-91fa-644aeb072847",
                             "required": true,
                             "mode": "integer32",
-                            "sample": 6,
+                            "sample": 13,
                             "error": {}
                         },
                         {
@@ -220,15 +220,15 @@
                             "isActivated": true,
                             "type": "string",
                             "primaryKey": false,
-                            "GUID": "560167fd-690a-45db-9201-427beba80bcd",
+                            "GUID": "7715f351-4285-4541-9550-74905ad37891",
                             "required": true,
-                            "sample": "Won 1 Oscar. Another 2 wins & 6 nominations.",
+                            "sample": "16 wins & 5 nominations.",
                             "error": {}
                         }
                     ],
                     "additionalProperties": true,
                     "primaryKey": false,
-                    "GUID": "779da296-ec59-476c-8d6e-6a29a0daaf74",
+                    "GUID": "4ce6ad7c-a269-4972-a68b-e1fe15f81365",
                     "required": true,
                     "error": {}
                 },
@@ -238,9 +238,9 @@
                     "isActivated": true,
                     "type": "date",
                     "primaryKey": false,
-                    "GUID": "26f43a4e-e18d-4ab4-ac05-24e28f080569",
+                    "GUID": "c3db09a3-1f22-4ffa-9ddd-3f3386fe13c9",
                     "required": true,
-                    "sample": "ISODate(\"2015-08-26 00:49:38.307000000\")",
+                    "sample": "ISODate(\"2015-09-03 00:37:55.193000000\")",
                     "error": {
                         "sample": true
                     }
@@ -251,10 +251,10 @@
                     "isActivated": true,
                     "type": "numeric",
                     "primaryKey": false,
-                    "GUID": "1594e479-0003-443b-98f3-f7fb13f460c4",
+                    "GUID": "4c239177-62ae-4ee3-9b88-5174cc2a41ce",
                     "required": true,
                     "mode": "integer32",
-                    "sample": 2011,
+                    "sample": 2014,
                     "error": {}
                 },
                 {
@@ -269,10 +269,10 @@
                             "isActivated": true,
                             "type": "numeric",
                             "primaryKey": false,
-                            "GUID": "7f2c7971-e9d9-4671-9fe1-d98f7e6c0d63",
+                            "GUID": "cde8cdd2-c6f5-434a-9d13-85cd0d959942",
                             "required": true,
                             "mode": "double",
-                            "sample": 5.9,
+                            "sample": 6.3,
                             "error": {}
                         },
                         {
@@ -281,10 +281,10 @@
                             "isActivated": true,
                             "type": "numeric",
                             "primaryKey": false,
-                            "GUID": "13ccef14-5422-4779-94da-4fe49cc6d477",
+                            "GUID": "1a9b7195-6db3-4a00-ab09-9b40e1509a75",
                             "required": true,
                             "mode": "integer32",
-                            "sample": 59483,
+                            "sample": 99845,
                             "error": {}
                         },
                         {
@@ -293,16 +293,16 @@
                             "isActivated": true,
                             "type": "numeric",
                             "primaryKey": false,
-                            "GUID": "c4bb29de-3af0-4af5-af9c-08f545dd95b9",
+                            "GUID": "68f25bf0-313f-4809-b2cb-42e2882f42a1",
                             "required": true,
                             "mode": "integer32",
-                            "sample": 2095657,
+                            "sample": 3263690,
                             "error": {}
                         }
                     ],
                     "additionalProperties": true,
                     "primaryKey": false,
-                    "GUID": "d9183c20-0bec-402d-9e6b-255a8632ce31",
+                    "GUID": "477e2b93-9ee8-4e38-8170-9d27217a3f9d",
                     "required": true,
                     "error": {}
                 },
@@ -312,7 +312,7 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "091175de-486e-4b27-be40-c45eeedb4a8d",
+                    "GUID": "16605100-7c82-486b-932b-a4c8e384d94f",
                     "required": true,
                     "sample": "movie",
                     "error": {}
@@ -335,10 +335,10 @@
                                     "isActivated": true,
                                     "type": "numeric",
                                     "primaryKey": false,
-                                    "GUID": "3198143d-3fd0-41db-bb77-5c01022d240c",
+                                    "GUID": "33f7d4a0-68d1-4794-a863-8d4b9ec645c8",
                                     "required": true,
                                     "mode": "double",
-                                    "sample": 2.9,
+                                    "sample": 3.7,
                                     "error": {}
                                 },
                                 {
@@ -347,10 +347,10 @@
                                     "isActivated": true,
                                     "type": "numeric",
                                     "primaryKey": false,
-                                    "GUID": "798a3d87-21af-4c1c-a495-8f5258dd5341",
+                                    "GUID": "83154956-a633-4376-b84f-0ab7fbaa4dcf",
                                     "required": true,
                                     "mode": "integer32",
-                                    "sample": 89112,
+                                    "sample": 74299,
                                     "error": {}
                                 },
                                 {
@@ -359,16 +359,16 @@
                                     "isActivated": true,
                                     "type": "numeric",
                                     "primaryKey": false,
-                                    "GUID": "7dc0bd4d-ff10-4053-b699-458dd7255c24",
-                                    "required": false,
+                                    "GUID": "da281663-4e07-4df6-91a2-4dd433b7423e",
+                                    "required": true,
                                     "mode": "integer32",
-                                    "sample": 93,
+                                    "sample": 92,
                                     "error": {}
                                 }
                             ],
                             "additionalProperties": true,
                             "primaryKey": false,
-                            "GUID": "81f01340-df5f-4a07-a395-5b7164698a50",
+                            "GUID": "9f7367b5-86c0-427f-b978-1cad7987d1bc",
                             "required": true,
                             "error": {}
                         },
@@ -378,7 +378,7 @@
                             "isActivated": true,
                             "type": "date",
                             "primaryKey": false,
-                            "GUID": "ba639b5f-9a51-4f38-9f1c-3be59a7e344f",
+                            "GUID": "0e967378-b77e-416d-98b8-4815cf2ee3df",
                             "required": true,
                             "error": {}
                         },
@@ -388,9 +388,9 @@
                             "isActivated": true,
                             "type": "string",
                             "primaryKey": false,
-                            "GUID": "44e763c7-7b24-4606-8445-878e3f96ece7",
+                            "GUID": "5c50c521-6e51-4944-8887-97f5f34648b9",
                             "required": false,
-                            "sample": "$0.2M",
+                            "sample": "$30.9M",
                             "error": {}
                         },
                         {
@@ -399,9 +399,9 @@
                             "isActivated": true,
                             "type": "string",
                             "primaryKey": false,
-                            "GUID": "8ae94787-daf2-4a7d-9d4c-7179f0c9ee4d",
+                            "GUID": "e90d06e5-be3f-446f-802c-49d87ef8fd78",
                             "required": false,
-                            "sample": "Sleuth is so obvious and coarse, rather than suspenseful and action-packed, that it does nothing to improve on the original version",
+                            "sample": "A charming, but cliched comedy reminiscent of The Full Monty.",
                             "error": {}
                         },
                         {
@@ -416,10 +416,10 @@
                                     "isActivated": true,
                                     "type": "numeric",
                                     "primaryKey": false,
-                                    "GUID": "6d20d9cf-3094-4402-90e1-ef46ed55b529",
+                                    "GUID": "913051c6-3123-4c20-9028-0f47caa15307",
                                     "required": true,
                                     "mode": "integer32",
-                                    "sample": 100,
+                                    "sample": 99,
                                     "error": {}
                                 },
                                 {
@@ -428,10 +428,10 @@
                                     "isActivated": true,
                                     "type": "numeric",
                                     "primaryKey": false,
-                                    "GUID": "dfc469c3-afe1-403c-a1e2-0522abc78dd9",
+                                    "GUID": "013bfe62-18dd-4e9f-9120-caad070f0dda",
                                     "required": true,
                                     "mode": "integer32",
-                                    "sample": 119,
+                                    "sample": 121,
                                     "error": {}
                                 },
                                 {
@@ -440,16 +440,16 @@
                                     "isActivated": true,
                                     "type": "numeric",
                                     "primaryKey": false,
-                                    "GUID": "1d312e3a-f55b-415a-b3e3-4ff5f2d88194",
+                                    "GUID": "c4f1aeb6-8e25-45ec-bccf-657ccabfc639",
                                     "required": true,
                                     "mode": "double",
-                                    "sample": 3.3,
+                                    "sample": 7.5,
                                     "error": {}
                                 }
                             ],
                             "additionalProperties": true,
                             "primaryKey": false,
-                            "GUID": "8ec72a6f-44e3-4a3e-99fa-68e6e5ac768a",
+                            "GUID": "ac040523-1c0c-4382-a898-0c0731131a90",
                             "required": false,
                             "error": {}
                         },
@@ -459,7 +459,7 @@
                             "isActivated": true,
                             "type": "date",
                             "primaryKey": false,
-                            "GUID": "7debc6b9-e430-4af4-a314-97a4ba2f2ae6",
+                            "GUID": "453cc4c5-6fa4-48c7-ac6c-ce557588fe80",
                             "required": false,
                             "error": {}
                         },
@@ -469,10 +469,10 @@
                             "isActivated": true,
                             "type": "numeric",
                             "primaryKey": false,
-                            "GUID": "eac18600-9810-487a-aedb-69d6b1857fb2",
+                            "GUID": "c992a885-a414-4030-b6fd-2a1501c98521",
                             "required": false,
                             "mode": "integer32",
-                            "sample": 43,
+                            "sample": 114,
                             "error": {}
                         },
                         {
@@ -481,9 +481,9 @@
                             "isActivated": true,
                             "type": "string",
                             "primaryKey": false,
-                            "GUID": "2dc136e4-6265-4e03-9f50-f53eec8ca9f9",
+                            "GUID": "9cb1bfb7-e7d2-4651-bcfe-d46ae39461b9",
                             "required": false,
-                            "sample": "Warner Home Video",
+                            "sample": "Xlrator Media",
                             "error": {}
                         },
                         {
@@ -492,10 +492,10 @@
                             "isActivated": true,
                             "type": "numeric",
                             "primaryKey": false,
-                            "GUID": "f4e51917-3343-4e5a-a3df-38a6002a3453",
+                            "GUID": "734bbc92-bf87-4417-9311-520a4f22a782",
                             "required": false,
                             "mode": "integer32",
-                            "sample": 76,
+                            "sample": 31,
                             "error": {}
                         },
                         {
@@ -504,15 +504,15 @@
                             "isActivated": true,
                             "type": "string",
                             "primaryKey": false,
-                            "GUID": "fc018783-fb72-424c-93ed-281f04fc2a2c",
+                            "GUID": "73500ff5-9c3e-4fd1-84e9-a2c2d544abd8",
                             "required": false,
-                            "sample": "http://www.sonyclassics.com/sleuth",
+                            "sample": "http://www.calendargirls.tv/home.html",
                             "error": {}
                         }
                     ],
                     "additionalProperties": true,
                     "primaryKey": false,
-                    "GUID": "7ed3d4b0-a3eb-483f-a306-6da074ca41ad",
+                    "GUID": "82344ae1-e9c6-4b17-a7a2-4a790d7cf99f",
                     "required": false,
                     "error": {}
                 },
@@ -526,15 +526,15 @@
                             "hackoladeMeta": {},
                             "isActivated": true,
                             "type": "string",
-                            "GUID": "20de3d78-3164-4454-9b54-1545f602a277",
+                            "GUID": "48d19afe-8729-486c-80d8-1c0da46d5d94",
                             "arrayItem": true,
-                            "sample": "Japanese",
+                            "sample": "Italian",
                             "error": {}
                         }
                     ],
                     "additionalItems": true,
                     "primaryKey": false,
-                    "GUID": "2d42c9c5-4b7f-4435-81bc-59bf49923508",
+                    "GUID": "d8d5a8cd-2e49-401a-b043-9beecb581376",
                     "required": true,
                     "error": {}
                 },
@@ -544,10 +544,10 @@
                     "isActivated": true,
                     "type": "numeric",
                     "primaryKey": false,
-                    "GUID": "4a100f9d-632f-4a7f-8127-6467974479da",
+                    "GUID": "5a105496-c229-49e9-b7d2-e766fda0d51d",
                     "required": false,
                     "mode": "integer32",
-                    "sample": 49,
+                    "sample": 98,
                     "error": {}
                 },
                 {
@@ -556,9 +556,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "3f4cd7c0-304e-4d37-94bb-dfb2d4ba0771",
-                    "required": false,
-                    "sample": "https://m.media-amazon.com/images/M/MV5BM2Y4YzczMjItMjU0NC00N2ZjLWFmZTEtNTk0YmRkNzY2MTJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+                    "GUID": "92f3bf30-bfc9-4a94-adf2-bb079b0db11e",
+                    "required": true,
+                    "sample": "https://m.media-amazon.com/images/M/MV5BNzM2MDc3NTA3N15BMl5BanBnXkFtZTgwNzA5OTMyNTE@._V1_SY1000_SX677_AL_.jpg",
                     "error": {}
                 },
                 {
@@ -571,22 +571,22 @@
                             "hackoladeMeta": {},
                             "isActivated": true,
                             "type": "string",
-                            "GUID": "d8629a4d-45c0-42d7-bc7f-f6154254752c",
+                            "GUID": "31f35c5c-9608-43b2-92ee-b9a4be45de55",
                             "arrayItem": true,
-                            "sample": "Ei Ogawa",
+                            "sample": "Andrea Barbato (story)",
                             "error": {}
                         }
                     ],
                     "additionalItems": true,
                     "primaryKey": false,
-                    "GUID": "e29c9bf7-055b-4d4f-95f5-af2d484fd863",
-                    "required": true,
+                    "GUID": "d3e30d3f-f5a7-48d6-8627-39951a4478ef",
+                    "required": false,
                     "error": {}
                 }
             ],
             "definitions": {
                 "type": "definitions",
-                "GUID": "a90e7795-8888-4cb7-a150-7631b7050959",
+                "GUID": "9fdfbebb-1e52-41e4-8c55-99f8d652a6bf",
                 "properties": []
             },
             "isActivated": true,
@@ -599,29 +599,29 @@
                 {
                     "key": [
                         {
-                            "keyId": "f6548f8f-0e01-45e5-8cd9-c852cc1c3cd0",
+                            "keyId": "67726774-e5ec-4bcc-b7b4-5771cedc9b53",
                             "type": "ascending"
                         }
                     ],
                     "name": "_id_",
-                    "GUID": "cc0dff28-efe5-4384-aeab-171d57e71afa"
+                    "GUID": "40c42b67-78ef-4647-b68c-ad69d26b7899"
                 },
                 {
                     "key": [
                         {
-                            "keyId": "9cabc390-9169-46b9-bd9a-50ed92770d24",
+                            "keyId": "64e3665a-d3cc-4610-8a0d-50b5f860acd1",
                             "type": "text"
                         },
                         {
-                            "keyId": "433ad620-dca9-4c4e-b24e-f17175dfc654",
+                            "keyId": "adc875e9-d79d-4e5c-91fa-122cdf51ebc0",
                             "type": "text"
                         },
                         {
-                            "keyId": "5367d012-a55c-4644-91aa-3fc2976cc6f5",
+                            "keyId": "f9bdf884-c25e-42e8-beec-668dc130f099",
                             "type": "text"
                         },
                         {
-                            "keyId": "811c9e5d-c5ef-4a94-bc64-00f26629a0c4",
+                            "keyId": "f225b9aa-40e6-4047-9ae2-df12855249aa",
                             "type": "text"
                         }
                     ],
@@ -630,7 +630,7 @@
                     "default_language": "english",
                     "language_override": "language",
                     "textIndexVersion": 3,
-                    "GUID": "2b5569aa-4eea-4345-9816-c750f20dff9d"
+                    "GUID": "2d5b6d4b-951e-41bb-84c8-2c14f7ec4f42"
                 }
             ],
             "collation": {},
@@ -638,8 +638,8 @@
                 "unique": true,
                 "collation": "null"
             },
-            "GUID": "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f",
-            "bucketId": "0ada11b1-0baf-428f-8715-11bb9385f880",
+            "GUID": "f0df779e-2f92-4892-9ba2-898da05795a3",
+            "bucketId": "a0349e5d-8bc7-4ee6-a583-fce38822bba9",
             "code": "",
             "hackoladeMeta": {
                 "validationErrors": {}
@@ -655,7 +655,7 @@
                     "isActivated": true,
                     "type": "objectId",
                     "primaryKey": true,
-                    "GUID": "10734674-0285-459f-94aa-9b937253b248",
+                    "GUID": "8ceca520-5ccf-4ff1-b65c-722688940427",
                     "required": true,
                     "error": {}
                 },
@@ -665,9 +665,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "f00bfd28-f3fa-4236-a8b0-2ba8b1e527aa",
+                    "GUID": "ed371f62-6454-4ef4-b7e6-70badc63abb6",
                     "required": true,
-                    "sample": "Selyse Baratheon",
+                    "sample": "The Waif",
                     "error": {}
                 },
                 {
@@ -676,9 +676,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "0d65bd8e-5b7f-4864-a80b-6a6b917e497f",
+                    "GUID": "531696e6-44b3-4261-a64f-95d4e8df8da4",
                     "required": true,
-                    "sample": "tara_fitzgerald@gameofthron.es",
+                    "sample": "faye_marsay@gameofthron.es",
                     "error": {}
                 },
                 {
@@ -687,15 +687,15 @@
                     "isActivated": true,
                     "type": "objectId",
                     "primaryKey": false,
-                    "GUID": "965e8527-1985-4616-8d2c-0c5d4c971e14",
+                    "GUID": "294062a6-eb20-402b-ac2f-123a268cdc5f",
                     "required": true,
                     "relationshipType": "Foreign Key",
-                    "foreignCollection": "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f",
+                    "foreignCollection": "f0df779e-2f92-4892-9ba2-898da05795a3",
                     "foreignField": [
-                        "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f",
-                        "f6548f8f-0e01-45e5-8cd9-c852cc1c3cd0"
+                        "f0df779e-2f92-4892-9ba2-898da05795a3",
+                        "67726774-e5ec-4bcc-b7b4-5771cedc9b53"
                     ],
-                    "parentRelationship": "81384664-b001-45f2-b42d-f35f71d177bc",
+                    "parentRelationship": "7f28c008-3935-4ec8-9ea5-3d82efa9638b",
                     "error": {}
                 },
                 {
@@ -704,9 +704,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "f1b8e89e-4723-41bc-8270-c51021fc8c44",
+                    "GUID": "50cf3f2e-7eb5-4712-88b3-bbe514ba3a4e",
                     "required": true,
-                    "sample": "Amet eveniet explicabo officia. Vero expedita sequi voluptas accusamus quidem iure nesciunt. Sed voluptatibus assumenda rem esse nemo enim. Ipsa ipsum accusantium assumenda reiciendis.",
+                    "sample": "Itaque ipsam ex quas vero fugiat ex. Odit quas ducimus ullam perferendis maiores.",
                     "error": {}
                 },
                 {
@@ -715,14 +715,14 @@
                     "isActivated": true,
                     "type": "date",
                     "primaryKey": false,
-                    "GUID": "8df07db9-5058-4990-be84-c5e4f9f693bb",
+                    "GUID": "3c7c8fd2-c87f-4362-9104-7c3cdd22c009",
                     "required": true,
                     "error": {}
                 }
             ],
             "definitions": {
                 "type": "definitions",
-                "GUID": "dd5966ad-520e-42f8-8bcc-9ec63eceddc2",
+                "GUID": "da72279c-6da1-4643-9003-ec474760abc3",
                 "properties": []
             },
             "isActivated": true,
@@ -735,12 +735,12 @@
                 {
                     "key": [
                         {
-                            "keyId": "10734674-0285-459f-94aa-9b937253b248",
+                            "keyId": "8ceca520-5ccf-4ff1-b65c-722688940427",
                             "type": "ascending"
                         }
                     ],
                     "name": "_id_",
-                    "GUID": "a66507d3-9593-48b1-baf5-3079ba1b5608"
+                    "GUID": "50d47266-7ac7-45a4-a5b3-77bfa49224aa"
                 }
             ],
             "collation": {},
@@ -748,8 +748,69 @@
                 "unique": true,
                 "collation": "null"
             },
-            "GUID": "14b6689b-8fd3-4628-85e1-af531ce85850",
-            "bucketId": "0ada11b1-0baf-428f-8715-11bb9385f880",
+            "GUID": "43945d37-8391-4797-b0d2-e87603bd758e",
+            "bucketId": "a0349e5d-8bc7-4ee6-a583-fce38822bba9",
+            "code": "",
+            "hackoladeMeta": {
+                "validationErrors": {}
+            }
+        },
+        {
+            "collectionName": "animals",
+            "type": "object",
+            "properties": [
+                {
+                    "code": "",
+                    "name": "_id",
+                    "isActivated": true,
+                    "type": "objectId",
+                    "primaryKey": true,
+                    "GUID": "a437b8fb-c1b6-478d-9bb6-162465855014",
+                    "required": true,
+                    "error": {}
+                },
+                {
+                    "code": "",
+                    "name": "name",
+                    "isActivated": true,
+                    "type": "string",
+                    "primaryKey": false,
+                    "GUID": "e658db52-a4f5-4103-a130-e428a21e6117",
+                    "required": true,
+                    "sample": "snake",
+                    "error": {}
+                }
+            ],
+            "definitions": {
+                "type": "definitions",
+                "GUID": "971dab77-f957-41ac-87bb-f6c5a7e4ec2b",
+                "properties": []
+            },
+            "isActivated": true,
+            "additionalProperties": true,
+            "validationLevel": "Off",
+            "validationAction": "Warn",
+            "storageEngineName": "WiredTiger",
+            "collectionUsers": [],
+            "indexes": [
+                {
+                    "key": [
+                        {
+                            "keyId": "a437b8fb-c1b6-478d-9bb6-162465855014",
+                            "type": "ascending"
+                        }
+                    ],
+                    "name": "_id_",
+                    "GUID": "98c53bf6-d6fd-499f-b2df-0a5356d59ab7"
+                }
+            ],
+            "collation": {},
+            "sharding": {
+                "unique": true,
+                "collation": "null"
+            },
+            "GUID": "c42626c7-0c04-405c-99ba-70cd4a789416",
+            "bucketId": "a0349e5d-8bc7-4ee6-a583-fce38822bba9",
             "code": "",
             "hackoladeMeta": {
                 "validationErrors": {}
@@ -765,7 +826,7 @@
                     "isActivated": true,
                     "type": "objectId",
                     "primaryKey": true,
-                    "GUID": "6ee41de3-0151-49ae-b4e3-2c8a1edd50fc",
+                    "GUID": "b94f6d3e-2629-470e-85fe-501b46ae9e34",
                     "required": true,
                     "error": {}
                 },
@@ -775,9 +836,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "d9bc76a4-d509-4e6d-8a5b-0daa5111baed",
+                    "GUID": "dd39eef4-6964-4712-afe2-09d1f3de0078",
                     "required": true,
-                    "sample": "Donna Smith",
+                    "sample": "Nicholas Johnson",
                     "error": {}
                 },
                 {
@@ -786,9 +847,9 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "d63f539b-7116-46c5-ace7-51dcdb2144e6",
+                    "GUID": "4b440209-5b4b-4208-8752-01979bd3442d",
                     "required": true,
-                    "sample": "donna_smith@fakegmail.com",
+                    "sample": "nicholas_johnson@fakegmail.com",
                     "error": {}
                 },
                 {
@@ -797,15 +858,15 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "9109bc95-53b7-4d2f-9fe8-8bc83fc3e6a5",
+                    "GUID": "f22903fd-20f9-4dd2-a8c3-cbf2c6647c70",
                     "required": true,
-                    "sample": "$2b$12$LYIyq5Bsszh3/8efEYmJRuWDqhOeg8K5czQwSLxEBhOTyhOX34JEy",
+                    "sample": "$2b$12$hdzNySj4l/tZR4op5oQXb.FStH3u7ZHjmhhtrpQFIEe39NkBS6R1y",
                     "error": {}
                 }
             ],
             "definitions": {
                 "type": "definitions",
-                "GUID": "a05f094c-0955-4d37-bea7-415b9692fd46",
+                "GUID": "4b845acf-91e3-43b9-9a15-b4921ad800aa",
                 "properties": []
             },
             "isActivated": true,
@@ -818,23 +879,23 @@
                 {
                     "key": [
                         {
-                            "keyId": "6ee41de3-0151-49ae-b4e3-2c8a1edd50fc",
+                            "keyId": "b94f6d3e-2629-470e-85fe-501b46ae9e34",
                             "type": "ascending"
                         }
                     ],
                     "name": "_id_",
-                    "GUID": "10f4d349-af3f-45af-b3c3-ce9dae2a992c"
+                    "GUID": "691a376b-5a8e-4154-b5a2-4dbd46d5eda6"
                 },
                 {
                     "key": [
                         {
-                            "keyId": "d63f539b-7116-46c5-ace7-51dcdb2144e6",
+                            "keyId": "4b440209-5b4b-4208-8752-01979bd3442d",
                             "type": "ascending"
                         }
                     ],
                     "name": "email_1",
                     "unique": true,
-                    "GUID": "74fc8f89-ab70-4ff8-93c8-1ee45046f063"
+                    "GUID": "35249666-a49f-4f90-9c76-047fe625b26d"
                 }
             ],
             "collation": {},
@@ -842,8 +903,8 @@
                 "unique": true,
                 "collation": "null"
             },
-            "GUID": "88ed083d-75cb-4950-bde2-35e4ba8f2523",
-            "bucketId": "0ada11b1-0baf-428f-8715-11bb9385f880",
+            "GUID": "0b156a52-c0e0-4364-b7f3-539f067747a7",
+            "bucketId": "a0349e5d-8bc7-4ee6-a583-fce38822bba9",
             "code": "",
             "hackoladeMeta": {
                 "validationErrors": {}
@@ -859,7 +920,7 @@
                     "isActivated": true,
                     "type": "objectId",
                     "primaryKey": true,
-                    "GUID": "582767ff-b0db-48a4-8ecb-0f42147815f8",
+                    "GUID": "93b4d1ab-c978-4dc0-9d2a-107ef88160e8",
                     "required": true,
                     "error": {}
                 },
@@ -869,7 +930,7 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "f3219e80-dbce-4e26-b423-c51ed3d6e095",
+                    "GUID": "4145dddf-b8c9-4fe1-a11f-5266bda8b408",
                     "required": true,
                     "sample": "t3qulfeem@kwiv5.6ur",
                     "error": {}
@@ -880,7 +941,7 @@
                     "isActivated": true,
                     "type": "string",
                     "primaryKey": false,
-                    "GUID": "2c38f2dc-cd81-4c65-beab-5cd418c78f4d",
+                    "GUID": "e46d6bcd-dfcf-4c64-9b9f-945e3a809f1d",
                     "required": true,
                     "sample": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MTk5MDkzMjEsIm5iZiI6MTUxOTkwOTMyMSwianRpIjoiNmJlZDAwMWYtNTFiYi00NzVhLTgxZDAtMDcwNGE5Mjk0MWZlIiwiZXhwIjoxNTE5OTEwMjIxLCJpZGVudGl0eSI6eyJlbWFpbCI6InQzcXVsZmVlbUBrd2l2NS42dXIiLCJuYW1lIjoiM2lveHJtZnF4IiwicGFzc3dvcmQiOm51bGx9LCJmcmVzaCI6ZmFsc2UsInR5cGUiOiJhY2Nlc3MiLCJ1c2VyX2NsYWltcyI6eyJ1c2VyIjp7ImVtYWlsIjoidDNxdWxmZWVtQGt3aXY1LjZ1ciIsIm5hbWUiOiIzaW94cm1mcXgiLCJwYXNzd29yZCI6bnVsbH19fQ.ejtr_NyZyBronWMKuE0RFTjWej--T0zGrdc_iymGtVs",
                     "error": {}
@@ -888,7 +949,7 @@
             ],
             "definitions": {
                 "type": "definitions",
-                "GUID": "3d5ae48a-8e98-4d1a-97dc-113f730adcbc",
+                "GUID": "fa25d482-83c0-444e-b031-c5a5f27539a2",
                 "properties": []
             },
             "isActivated": true,
@@ -901,23 +962,23 @@
                 {
                     "key": [
                         {
-                            "keyId": "582767ff-b0db-48a4-8ecb-0f42147815f8",
+                            "keyId": "93b4d1ab-c978-4dc0-9d2a-107ef88160e8",
                             "type": "ascending"
                         }
                     ],
                     "name": "_id_",
-                    "GUID": "bd2c0186-6f63-4bd5-81b0-c53a40ae0893"
+                    "GUID": "e661b100-e0e0-4ac9-9ac5-88c9c8188d96"
                 },
                 {
                     "key": [
                         {
-                            "keyId": "f3219e80-dbce-4e26-b423-c51ed3d6e095",
+                            "keyId": "4145dddf-b8c9-4fe1-a11f-5266bda8b408",
                             "type": "ascending"
                         }
                     ],
                     "name": "user_id_1",
                     "unique": true,
-                    "GUID": "74b06658-9f2b-45e6-89c9-dc1195f39c8d"
+                    "GUID": "ba3eeb67-180c-4f72-acd0-b30ca6eeb5bc"
                 }
             ],
             "collation": {},
@@ -925,8 +986,8 @@
                 "unique": true,
                 "collation": "null"
             },
-            "GUID": "f1f424ce-1020-4bb4-8b28-dadb5b7465f0",
-            "bucketId": "0ada11b1-0baf-428f-8715-11bb9385f880",
+            "GUID": "6c47ccc7-63e2-4c32-82b5-ae97015df658",
+            "bucketId": "a0349e5d-8bc7-4ee6-a583-fce38822bba9",
             "code": "",
             "hackoladeMeta": {
                 "validationErrors": {}
@@ -942,7 +1003,7 @@
                     "isActivated": true,
                     "type": "objectId",
                     "primaryKey": true,
-                    "GUID": "444afbfb-13e3-445a-916c-9fa2121fc128",
+                    "GUID": "eb78ad5d-828e-4c47-ab89-81845e03c07e",
                     "required": true,
                     "error": {}
                 },
@@ -952,10 +1013,10 @@
                     "isActivated": true,
                     "type": "numeric",
                     "primaryKey": false,
-                    "GUID": "de1b216f-8589-495c-842e-e6bacdfd6719",
+                    "GUID": "3cdd4d73-e685-4b33-bc4e-7a0191048704",
                     "required": true,
                     "mode": "integer32",
-                    "sample": 2960,
+                    "sample": 2922,
                     "error": {}
                 },
                 {
@@ -976,9 +1037,9 @@
                                     "isActivated": true,
                                     "type": "string",
                                     "primaryKey": false,
-                                    "GUID": "3e3b69e1-19f1-4bce-87dc-19c83b98a43c",
+                                    "GUID": "831bf392-45df-4528-b527-cb8bd3ba0402",
                                     "required": true,
-                                    "sample": "24230 Commercial Dr",
+                                    "sample": "2800 N Central Expy",
                                     "error": {}
                                 },
                                 {
@@ -987,9 +1048,9 @@
                                     "isActivated": true,
                                     "type": "string",
                                     "primaryKey": false,
-                                    "GUID": "1374b501-4371-4d42-8788-ef99a870e268",
+                                    "GUID": "5429e585-7c3f-41ee-be7a-0c65af147c86",
                                     "required": true,
-                                    "sample": "Rosenberg",
+                                    "sample": "Plano",
                                     "error": {}
                                 },
                                 {
@@ -998,7 +1059,7 @@
                                     "isActivated": true,
                                     "type": "string",
                                     "primaryKey": false,
-                                    "GUID": "1684137e-9254-44d1-b9b2-ae9501c2c045",
+                                    "GUID": "82a7808d-66d7-474d-98af-82f591573c7a",
                                     "required": true,
                                     "sample": "TX",
                                     "error": {}
@@ -1009,9 +1070,9 @@
                                     "isActivated": true,
                                     "type": "string",
                                     "primaryKey": false,
-                                    "GUID": "25fe6618-cb12-4bf6-9604-50f00059f2c6",
+                                    "GUID": "91e7abcb-32aa-4764-ac92-d70e9ee0903f",
                                     "required": true,
-                                    "sample": "77471",
+                                    "sample": "75074",
                                     "error": {}
                                 },
                                 {
@@ -1020,15 +1081,15 @@
                                     "isActivated": true,
                                     "type": "string",
                                     "primaryKey": false,
-                                    "GUID": "aba58186-64ec-4624-98d9-f6baf1310e01",
+                                    "GUID": "4206ca71-cb3a-44eb-bd30-88ef83c26b26",
                                     "required": false,
-                                    "sample": "Ste EL520",
+                                    "sample": "Suite #531",
                                     "error": {}
                                 }
                             ],
                             "additionalProperties": true,
                             "primaryKey": false,
-                            "GUID": "4a3fde6f-6894-491d-ba5d-9f422bb46777",
+                            "GUID": "74e49bf1-5d5c-441d-a722-fffda938e144",
                             "required": true,
                             "error": {}
                         },
@@ -1044,7 +1105,7 @@
                                     "isActivated": true,
                                     "type": "string",
                                     "primaryKey": false,
-                                    "GUID": "924e0115-abb5-4bcc-bf1a-e477d9f5d329",
+                                    "GUID": "62a7a2e6-ea43-4bf3-ac5d-e0f654c41ce1",
                                     "required": true,
                                     "sample": "Point",
                                     "error": {}
@@ -1059,37 +1120,37 @@
                                             "hackoladeMeta": {},
                                             "isActivated": true,
                                             "type": "numeric",
-                                            "GUID": "a14ca758-da7e-4bd6-8067-bcd8f5ae7344",
+                                            "GUID": "c77dc2fd-bf8d-4563-b258-c1af6cad781a",
                                             "arrayItem": true,
                                             "mode": "double",
-                                            "sample": -87.811262,
+                                            "sample": -71.396507,
                                             "error": {}
                                         }
                                     ],
                                     "additionalItems": true,
                                     "primaryKey": false,
-                                    "GUID": "21ec5268-96d5-4bb7-85b3-bb3a0a6a474a",
+                                    "GUID": "1bdca084-b730-4c7d-b753-88c8006c5cc5",
                                     "required": true,
                                     "error": {}
                                 }
                             ],
                             "additionalProperties": true,
                             "primaryKey": false,
-                            "GUID": "c09a5621-e4ec-4019-90d9-71fe7da09c1f",
+                            "GUID": "3a9a4123-e85f-432e-8226-0da5ea13810a",
                             "required": true,
                             "error": {}
                         }
                     ],
                     "additionalProperties": true,
                     "primaryKey": false,
-                    "GUID": "a9dd1b3a-a831-40c8-b342-6c27b16afeb6",
+                    "GUID": "0af3af8b-8819-4ba3-846a-62ef5e713829",
                     "required": true,
                     "error": {}
                 }
             ],
             "definitions": {
                 "type": "definitions",
-                "GUID": "c9aa0598-3bde-4487-9675-ca4c74a43505",
+                "GUID": "a8c330ac-77d0-4c6b-ba45-361d3b5b9522",
                 "properties": []
             },
             "isActivated": true,
@@ -1102,23 +1163,23 @@
                 {
                     "key": [
                         {
-                            "keyId": "444afbfb-13e3-445a-916c-9fa2121fc128",
+                            "keyId": "eb78ad5d-828e-4c47-ab89-81845e03c07e",
                             "type": "ascending"
                         }
                     ],
                     "name": "_id_",
-                    "GUID": "3f70cc69-df42-41bc-a04d-4d473d41a981"
+                    "GUID": "cd8f88b7-9411-4a59-b01e-5b7bab683389"
                 },
                 {
                     "key": [
                         {
-                            "keyId": "c09a5621-e4ec-4019-90d9-71fe7da09c1f",
+                            "keyId": "3a9a4123-e85f-432e-8226-0da5ea13810a",
                             "type": "2DSphere"
                         }
                     ],
                     "name": "geo index",
                     "2dsphereIndexVersion": 3,
-                    "GUID": "dc7b1b94-3303-42e3-a4fc-0bde61069b35"
+                    "GUID": "47959c9c-a4ea-446c-a06c-0f8cfe945eaa"
                 }
             ],
             "collation": {},
@@ -1126,8 +1187,8 @@
                 "unique": true,
                 "collation": "null"
             },
-            "GUID": "936d7322-5297-4a29-ba47-6dc342354c00",
-            "bucketId": "0ada11b1-0baf-428f-8715-11bb9385f880",
+            "GUID": "9af5251e-a241-47da-841a-ba4eb9303aad",
+            "bucketId": "a0349e5d-8bc7-4ee6-a583-fce38822bba9",
             "code": "",
             "hackoladeMeta": {
                 "validationErrors": {}
@@ -1139,11 +1200,12 @@
             "name": "sample_mflix",
             "type": "bucket",
             "collectionIds": [
-                "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f",
-                "14b6689b-8fd3-4628-85e1-af531ce85850",
-                "88ed083d-75cb-4950-bde2-35e4ba8f2523",
-                "f1f424ce-1020-4bb4-8b28-dadb5b7465f0",
-                "936d7322-5297-4a29-ba47-6dc342354c00"
+                "f0df779e-2f92-4892-9ba2-898da05795a3",
+                "43945d37-8391-4797-b0d2-e87603bd758e",
+                "c42626c7-0c04-405c-99ba-70cd4a789416",
+                "0b156a52-c0e0-4364-b7f3-539f067747a7",
+                "6c47ccc7-63e2-4c32-82b5-ae97015df658",
+                "9af5251e-a241-47da-841a-ba4eb9303aad"
             ],
             "backgroundColor": {
                 "r": 216,
@@ -1153,8 +1215,10 @@
             },
             "show": true,
             "isActivated": true,
-            "GUID": "0ada11b1-0baf-428f-8715-11bb9385f880",
-            "hackoladeMeta": {},
+            "GUID": "a0349e5d-8bc7-4ee6-a583-fce38822bba9",
+            "hackoladeMeta": {
+                "validationErrors": {}
+            },
             "code": ""
         }
     ],
@@ -1165,24 +1229,24 @@
             "relationshipType": "Foreign Key",
             "parentField": [
                 [
-                    "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f",
-                    "f6548f8f-0e01-45e5-8cd9-c852cc1c3cd0"
+                    "f0df779e-2f92-4892-9ba2-898da05795a3",
+                    "67726774-e5ec-4bcc-b7b4-5771cedc9b53"
                 ]
             ],
             "parentCardinality": "1",
             "childField": [
                 [
-                    "14b6689b-8fd3-4628-85e1-af531ce85850",
-                    "965e8527-1985-4616-8d2c-0c5d4c971e14"
+                    "43945d37-8391-4797-b0d2-e87603bd758e",
+                    "294062a6-eb20-402b-ac2f-123a268cdc5f"
                 ]
             ],
             "isActivated": true,
             "childCardinality": "0..n",
-            "GUID": "81384664-b001-45f2-b42d-f35f71d177bc",
-            "parentCollection": "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f",
-            "childCollection": "14b6689b-8fd3-4628-85e1-af531ce85850",
+            "GUID": "7f28c008-3935-4ec8-9ea5-3d82efa9638b",
+            "parentCollection": "f0df779e-2f92-4892-9ba2-898da05795a3",
+            "childCollection": "43945d37-8391-4797-b0d2-e87603bd758e",
             "hackoladeStyles": {
-                "GUID": "9c8b29b3-af79-4659-aa77-ada749668cc4",
+                "GUID": "f7b0ccc2-dec9-4029-92d0-468ec28d8258",
                 "autoPositioning": true,
                 "type": "Orthogonal",
                 "thickness": 2,
@@ -1216,120 +1280,124 @@
     "users": [],
     "diagramViews": [],
     "idToNameHashTable": {
-        "0ada11b1-0baf-428f-8715-11bb9385f880": "sample_mflix",
-        "f6548f8f-0e01-45e5-8cd9-c852cc1c3cd0": "_id",
-        "aa576f6c-3013-4d3a-9478-10a7ccd1d7d8": "plot",
-        "5367d012-a55c-4644-91aa-3fc2976cc6f5": "genres",
-        "6026b85c-5098-4431-9fc6-aaa9ef2fde64": "runtime",
-        "9cabc390-9169-46b9-bd9a-50ed92770d24": "cast",
-        "3b25943b-6df0-41f5-8f3d-d9ca5521d30c": "num_mflix_comments",
-        "811c9e5d-c5ef-4a94-bc64-00f26629a0c4": "title",
-        "433ad620-dca9-4c4e-b24e-f17175dfc654": "fullplot",
-        "b3ce53e6-b7ad-49d8-9393-91ea9675027c": "countries",
-        "eb33c543-8ec1-4bfb-a568-51139df6e28b": "released",
-        "654da373-96d2-4f44-84a5-154567550e79": "directors",
-        "0c64890e-e339-4b2e-9051-75f06a6d0a10": "rated",
-        "779da296-ec59-476c-8d6e-6a29a0daaf74": "awards",
-        "d9a230c4-6415-495c-922b-b434d4b5a78f": "wins",
-        "2a479c68-5dab-41eb-9d14-0571231517d5": "nominations",
-        "560167fd-690a-45db-9201-427beba80bcd": "text",
-        "26f43a4e-e18d-4ab4-ac05-24e28f080569": "lastupdated",
-        "1594e479-0003-443b-98f3-f7fb13f460c4": "year",
-        "d9183c20-0bec-402d-9e6b-255a8632ce31": "imdb",
-        "7f2c7971-e9d9-4671-9fe1-d98f7e6c0d63": "rating",
-        "13ccef14-5422-4779-94da-4fe49cc6d477": "votes",
-        "c4bb29de-3af0-4af5-af9c-08f545dd95b9": "id",
-        "091175de-486e-4b27-be40-c45eeedb4a8d": "type",
-        "7ed3d4b0-a3eb-483f-a306-6da074ca41ad": "tomatoes",
-        "81f01340-df5f-4a07-a395-5b7164698a50": "viewer",
-        "3198143d-3fd0-41db-bb77-5c01022d240c": "rating",
-        "798a3d87-21af-4c1c-a495-8f5258dd5341": "numReviews",
-        "7dc0bd4d-ff10-4053-b699-458dd7255c24": "meter",
-        "ba639b5f-9a51-4f38-9f1c-3be59a7e344f": "lastUpdated",
-        "44e763c7-7b24-4606-8445-878e3f96ece7": "boxOffice",
-        "8ae94787-daf2-4a7d-9d4c-7179f0c9ee4d": "consensus",
-        "8ec72a6f-44e3-4a3e-99fa-68e6e5ac768a": "critic",
-        "6d20d9cf-3094-4402-90e1-ef46ed55b529": "meter",
-        "dfc469c3-afe1-403c-a1e2-0522abc78dd9": "numReviews",
-        "1d312e3a-f55b-415a-b3e3-4ff5f2d88194": "rating",
-        "7debc6b9-e430-4af4-a314-97a4ba2f2ae6": "dvd",
-        "eac18600-9810-487a-aedb-69d6b1857fb2": "fresh",
-        "2dc136e4-6265-4e03-9f50-f53eec8ca9f9": "production",
-        "f4e51917-3343-4e5a-a3df-38a6002a3453": "rotten",
-        "fc018783-fb72-424c-93ed-281f04fc2a2c": "website",
-        "2d42c9c5-4b7f-4435-81bc-59bf49923508": "languages",
-        "4a100f9d-632f-4a7f-8127-6467974479da": "metacritic",
-        "3f4cd7c0-304e-4d37-94bb-dfb2d4ba0771": "poster",
-        "e29c9bf7-055b-4d4f-95f5-af2d484fd863": "writers",
-        "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f": "movies",
-        "10734674-0285-459f-94aa-9b937253b248": "_id",
-        "f00bfd28-f3fa-4236-a8b0-2ba8b1e527aa": "name",
-        "0d65bd8e-5b7f-4864-a80b-6a6b917e497f": "email",
-        "965e8527-1985-4616-8d2c-0c5d4c971e14": "movie_id",
-        "f1b8e89e-4723-41bc-8270-c51021fc8c44": "text",
-        "8df07db9-5058-4990-be84-c5e4f9f693bb": "date",
-        "14b6689b-8fd3-4628-85e1-af531ce85850": "comments",
-        "6ee41de3-0151-49ae-b4e3-2c8a1edd50fc": "_id",
-        "d9bc76a4-d509-4e6d-8a5b-0daa5111baed": "name",
-        "d63f539b-7116-46c5-ace7-51dcdb2144e6": "email",
-        "9109bc95-53b7-4d2f-9fe8-8bc83fc3e6a5": "password",
-        "88ed083d-75cb-4950-bde2-35e4ba8f2523": "users",
-        "582767ff-b0db-48a4-8ecb-0f42147815f8": "_id",
-        "f3219e80-dbce-4e26-b423-c51ed3d6e095": "user_id",
-        "2c38f2dc-cd81-4c65-beab-5cd418c78f4d": "jwt",
-        "f1f424ce-1020-4bb4-8b28-dadb5b7465f0": "sessions",
-        "444afbfb-13e3-445a-916c-9fa2121fc128": "_id",
-        "de1b216f-8589-495c-842e-e6bacdfd6719": "theaterId",
-        "a9dd1b3a-a831-40c8-b342-6c27b16afeb6": "location",
-        "4a3fde6f-6894-491d-ba5d-9f422bb46777": "address",
-        "3e3b69e1-19f1-4bce-87dc-19c83b98a43c": "street1",
-        "1374b501-4371-4d42-8788-ef99a870e268": "city",
-        "1684137e-9254-44d1-b9b2-ae9501c2c045": "state",
-        "25fe6618-cb12-4bf6-9604-50f00059f2c6": "zipcode",
-        "aba58186-64ec-4624-98d9-f6baf1310e01": "street2",
-        "c09a5621-e4ec-4019-90d9-71fe7da09c1f": "geo",
-        "924e0115-abb5-4bcc-bf1a-e477d9f5d329": "type",
-        "21ec5268-96d5-4bb7-85b3-bb3a0a6a474a": "coordinates",
-        "936d7322-5297-4a29-ba47-6dc342354c00": "theaters",
-        "81384664-b001-45f2-b42d-f35f71d177bc": "fk movies._id to comments.movie_id"
+        "a0349e5d-8bc7-4ee6-a583-fce38822bba9": "sample_mflix",
+        "67726774-e5ec-4bcc-b7b4-5771cedc9b53": "_id",
+        "578806bb-46fe-4445-aec9-74cf35ba0a89": "plot",
+        "f9bdf884-c25e-42e8-beec-668dc130f099": "genres",
+        "525cf4e9-4b0d-4d24-85bb-dcd296af3107": "runtime",
+        "64e3665a-d3cc-4610-8a0d-50b5f860acd1": "cast",
+        "4913581f-8e3a-4589-9ad2-d22820b3f160": "num_mflix_comments",
+        "f225b9aa-40e6-4047-9ae2-df12855249aa": "title",
+        "adc875e9-d79d-4e5c-91fa-122cdf51ebc0": "fullplot",
+        "59456350-bc44-45e7-b96c-ea79a33ae8da": "countries",
+        "c25f4471-c0c3-432c-981e-4d50b8476c46": "released",
+        "f2a207e8-3179-4321-aa42-31daa873e77b": "directors",
+        "2bb149a0-d542-463e-a436-20eb10503d87": "rated",
+        "4ce6ad7c-a269-4972-a68b-e1fe15f81365": "awards",
+        "81452c13-b3b3-4c7f-a693-96c17d277409": "wins",
+        "2664ece7-f375-4279-91fa-644aeb072847": "nominations",
+        "7715f351-4285-4541-9550-74905ad37891": "text",
+        "c3db09a3-1f22-4ffa-9ddd-3f3386fe13c9": "lastupdated",
+        "4c239177-62ae-4ee3-9b88-5174cc2a41ce": "year",
+        "477e2b93-9ee8-4e38-8170-9d27217a3f9d": "imdb",
+        "cde8cdd2-c6f5-434a-9d13-85cd0d959942": "rating",
+        "1a9b7195-6db3-4a00-ab09-9b40e1509a75": "votes",
+        "68f25bf0-313f-4809-b2cb-42e2882f42a1": "id",
+        "16605100-7c82-486b-932b-a4c8e384d94f": "type",
+        "82344ae1-e9c6-4b17-a7a2-4a790d7cf99f": "tomatoes",
+        "9f7367b5-86c0-427f-b978-1cad7987d1bc": "viewer",
+        "33f7d4a0-68d1-4794-a863-8d4b9ec645c8": "rating",
+        "83154956-a633-4376-b84f-0ab7fbaa4dcf": "numReviews",
+        "da281663-4e07-4df6-91a2-4dd433b7423e": "meter",
+        "0e967378-b77e-416d-98b8-4815cf2ee3df": "lastUpdated",
+        "5c50c521-6e51-4944-8887-97f5f34648b9": "boxOffice",
+        "e90d06e5-be3f-446f-802c-49d87ef8fd78": "consensus",
+        "ac040523-1c0c-4382-a898-0c0731131a90": "critic",
+        "913051c6-3123-4c20-9028-0f47caa15307": "meter",
+        "013bfe62-18dd-4e9f-9120-caad070f0dda": "numReviews",
+        "c4f1aeb6-8e25-45ec-bccf-657ccabfc639": "rating",
+        "453cc4c5-6fa4-48c7-ac6c-ce557588fe80": "dvd",
+        "c992a885-a414-4030-b6fd-2a1501c98521": "fresh",
+        "9cb1bfb7-e7d2-4651-bcfe-d46ae39461b9": "production",
+        "734bbc92-bf87-4417-9311-520a4f22a782": "rotten",
+        "73500ff5-9c3e-4fd1-84e9-a2c2d544abd8": "website",
+        "d8d5a8cd-2e49-401a-b043-9beecb581376": "languages",
+        "5a105496-c229-49e9-b7d2-e766fda0d51d": "metacritic",
+        "92f3bf30-bfc9-4a94-adf2-bb079b0db11e": "poster",
+        "d3e30d3f-f5a7-48d6-8627-39951a4478ef": "writers",
+        "f0df779e-2f92-4892-9ba2-898da05795a3": "movies",
+        "8ceca520-5ccf-4ff1-b65c-722688940427": "_id",
+        "ed371f62-6454-4ef4-b7e6-70badc63abb6": "name",
+        "531696e6-44b3-4261-a64f-95d4e8df8da4": "email",
+        "294062a6-eb20-402b-ac2f-123a268cdc5f": "movie_id",
+        "50cf3f2e-7eb5-4712-88b3-bbe514ba3a4e": "text",
+        "3c7c8fd2-c87f-4362-9104-7c3cdd22c009": "date",
+        "43945d37-8391-4797-b0d2-e87603bd758e": "comments",
+        "a437b8fb-c1b6-478d-9bb6-162465855014": "_id",
+        "e658db52-a4f5-4103-a130-e428a21e6117": "name",
+        "c42626c7-0c04-405c-99ba-70cd4a789416": "animals",
+        "b94f6d3e-2629-470e-85fe-501b46ae9e34": "_id",
+        "dd39eef4-6964-4712-afe2-09d1f3de0078": "name",
+        "4b440209-5b4b-4208-8752-01979bd3442d": "email",
+        "f22903fd-20f9-4dd2-a8c3-cbf2c6647c70": "password",
+        "0b156a52-c0e0-4364-b7f3-539f067747a7": "users",
+        "93b4d1ab-c978-4dc0-9d2a-107ef88160e8": "_id",
+        "4145dddf-b8c9-4fe1-a11f-5266bda8b408": "user_id",
+        "e46d6bcd-dfcf-4c64-9b9f-945e3a809f1d": "jwt",
+        "6c47ccc7-63e2-4c32-82b5-ae97015df658": "sessions",
+        "eb78ad5d-828e-4c47-ab89-81845e03c07e": "_id",
+        "3cdd4d73-e685-4b33-bc4e-7a0191048704": "theaterId",
+        "0af3af8b-8819-4ba3-846a-62ef5e713829": "location",
+        "74e49bf1-5d5c-441d-a722-fffda938e144": "address",
+        "831bf392-45df-4528-b527-cb8bd3ba0402": "street1",
+        "5429e585-7c3f-41ee-be7a-0c65af147c86": "city",
+        "82a7808d-66d7-474d-98af-82f591573c7a": "state",
+        "91e7abcb-32aa-4764-ac92-d70e9ee0903f": "zipcode",
+        "4206ca71-cb3a-44eb-bd30-88ef83c26b26": "street2",
+        "3a9a4123-e85f-432e-8226-0da5ea13810a": "geo",
+        "62a7a2e6-ea43-4bf3-ac5d-e0f654c41ce1": "type",
+        "1bdca084-b730-4c7d-b753-88c8006c5cc5": "coordinates",
+        "9af5251e-a241-47da-841a-ba4eb9303aad": "theaters",
+        "7f28c008-3935-4ec8-9ea5-3d82efa9638b": "fk movies._id to comments.movie_id"
     },
     "definitions": {
         "type": "definitions",
         "properties": [],
-        "GUID": "158b3da0-365e-418f-a8f8-1863a9a216ea"
+        "GUID": "cd567e5e-2258-4f97-8118-3f3e9334cae6"
     },
     "polyglotDefinitions": {
         "type": "polyglotDefinitions",
         "properties": [],
-        "GUID": "9e1c1b6a-1183-4cd6-a800-90668d16b821"
+        "GUID": "cb10ef14-2822-4380-b133-510de4e63e4f"
     },
     "externalDefinitions": {
         "type": "externalDefinitions",
         "properties": [],
-        "GUID": "17749ff3-0fae-4e88-8926-06daef7a6fb7"
+        "GUID": "dfc6751f-392e-489d-a4bd-2875bb6491a9"
     },
     "sources": [],
     "decorativeSymbols": [],
     "dbVersion": "v6.0",
     "dbVendor": "MongoDB",
     "appTarget": "MONGODB",
-    "creationTS": "2023-08-09T13:40:08.169Z",
-    "GUID": "6b6ae95a-dc61-4fd9-b4c2-f7d41a9f710d",
-    "lastModifTS": "2023-08-09T13:40:17.511Z",
+    "creationTS": "2023-09-05T10:05:33.797Z",
+    "GUID": "d0632fc8-60b1-459a-8852-980dbcaed8ac",
+    "lastModifTS": "2023-09-05T10:10:09.790Z",
     "persistenceSchemaVersion": "6",
     "isCreatedByPlugin": true,
     "pluginInformation": {
         "pluginEngineVersion": "1.0.0"
     },
     "applicationInformation": {
-        "version": "6.10.15"
+        "version": "6.10.19"
     },
+    "hackoladeMeta": {},
     "settings": {
         "centralPane": {
             "dbLevel": {
                 "erd": [
                     {
-                        "GUID": "1ff4e2d9-a932-4330-aa9c-3d331bc90e9f",
+                        "GUID": "f0df779e-2f92-4892-9ba2-898da05795a3",
                         "x": 1400,
                         "y": 1350,
                         "width": 329,
@@ -1337,7 +1405,7 @@
                         "color": {}
                     },
                     {
-                        "GUID": "14b6689b-8fd3-4628-85e1-af531ce85850",
+                        "GUID": "43945d37-8391-4797-b0d2-e87603bd758e",
                         "x": 1779,
                         "y": 1350,
                         "width": 226,
@@ -1345,7 +1413,17 @@
                         "color": {}
                     },
                     {
-                        "GUID": "88ed083d-75cb-4950-bde2-35e4ba8f2523",
+                        "GUID": "c42626c7-0c04-405c-99ba-70cd4a789416",
+                        "x": 1100,
+                        "y": 1550,
+                        "width": 201,
+                        "height": 66,
+                        "color": {
+                            "hex": "#ff9801"
+                        }
+                    },
+                    {
+                        "GUID": "0b156a52-c0e0-4364-b7f3-539f067747a7",
                         "x": 1550,
                         "y": 1150,
                         "width": 223,
@@ -1353,7 +1431,7 @@
                         "color": {}
                     },
                     {
-                        "GUID": "f1f424ce-1020-4bb4-8b28-dadb5b7465f0",
+                        "GUID": "6c47ccc7-63e2-4c32-82b5-ae97015df658",
                         "x": 1100,
                         "y": 1400,
                         "width": 210,
@@ -1361,7 +1439,7 @@
                         "color": {}
                     },
                     {
-                        "GUID": "936d7322-5297-4a29-ba47-6dc342354c00",
+                        "GUID": "9af5251e-a241-47da-841a-ba4eb9303aad",
                         "x": 1050,
                         "y": 1050,
                         "width": 297,
@@ -1377,9 +1455,9 @@
                 },
                 "buckets": [
                     {
-                        "x": 1000,
-                        "y": 1000,
-                        "GUID": "0ada11b1-0baf-428f-8715-11bb9385f880"
+                        "x": 1010,
+                        "y": 1010,
+                        "GUID": "a0349e5d-8bc7-4ee6-a583-fce38822bba9"
                     }
                 ],
                 "collapsedNodes": [],
@@ -1400,7 +1478,38 @@
                 "diagramViews": [],
                 "decorativeSymbols": [],
                 "nestedCollectionsLayout": "horizontal",
-                "options": [],
+                "options": [
+                    {
+                        "GUID": "f0df779e-2f92-4892-9ba2-898da05795a3",
+                        "autoWidth": false,
+                        "autoHeight": false
+                    },
+                    {
+                        "GUID": "43945d37-8391-4797-b0d2-e87603bd758e",
+                        "autoWidth": false,
+                        "autoHeight": false
+                    },
+                    {
+                        "GUID": "c42626c7-0c04-405c-99ba-70cd4a789416",
+                        "autoWidth": false,
+                        "autoHeight": false
+                    },
+                    {
+                        "GUID": "0b156a52-c0e0-4364-b7f3-539f067747a7",
+                        "autoWidth": false,
+                        "autoHeight": false
+                    },
+                    {
+                        "GUID": "6c47ccc7-63e2-4c32-82b5-ae97015df658",
+                        "autoWidth": false,
+                        "autoHeight": false
+                    },
+                    {
+                        "GUID": "9af5251e-a241-47da-841a-ba4eb9303aad",
+                        "autoWidth": false,
+                        "autoHeight": false
+                    }
+                ],
                 "relationshipUpdateDisabled": false,
                 "displayOptions": {}
             },
