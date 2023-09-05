@@ -61,9 +61,6 @@ Using the following command, I could actually checking install:
 ```
 docker compose run --rm hackoladeStudioCLI version;
 ```
-
-
-
 ## 3. Running some example scenarios
 In the next few paragraphs, we will try to explain the ideas around running the Hackolade CLI inside a Docker container with a few specific examples. 
 ### A. Reverse Engineering MongoDB atlas based on connection file
