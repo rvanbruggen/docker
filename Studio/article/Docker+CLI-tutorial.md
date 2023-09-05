@@ -39,25 +39,33 @@ Once that was done, I would be ready to run all the commands below are run from 
 So let's go through all of the steps one by one:
 
 ## 1. Building the image
+The first thing we need to do is create the image for us to use it in our Docker installation, which in my case is locally on my Mac:
 ```
 docker build --no-cache --pull -f Dockerfile.app -t hackolade:latest .
 ```
+Once that is done, you also need to make sure that you validate the license key for the image that you are running the Hackolade CLI in. This is explained in detail on the [Github page](https://github.com/hackolade/docker/tree/main/Studio#validate-license-key-for-the-image).
+
 ## 2. Installing the plugins based on Dockerfile.plugins file
-Edited the `Dockerfile.plugins` file to prepare for the installation of the plugins.
-Installation is done through this command:
+
+Next, I edited the `Dockerfile.plugins` file to prepare for the installation of the plugins that I would need later on. Installation is done through this command:
+
 ```
 docker build --no-cache -f Dockerfile.plugins -t hackolade:latest .
 ```
 
-## 3. Running some example scenarios
-Using Docker Desktop on my Mac.
-Had to disable the "virtualisation framework" as I was getting segmentation faults. 
+_**Note that I did have to do a little bit of tweaking on my Mac afterwards. When I was running some of the commands below, I was regularly running into "Segmentation faults", which would sometimes (almost 1 in 2 runs) block me from using the software. So I needed a solution, and I found it by doing the following: I had to __disable the "virtualisation framework"__ in my Docker installation. Once I did that, the errors were history.**_
+![](https://www.dropbox.com/scl/fi/vuj615xoiulog0km3xx6t/Screenshot-2023-09-04-at-18.23.03.png?rlkey=fzly8vr5cqhz3a1xnxnbl5ry2&dl=1)
 
-Checking install:
+
+Using the following command, I could actually checking install:
 ```
 docker compose run --rm hackoladeStudioCLI version;
 ```
 
+
+
+## 3. Running some example scenarios
+In the next few paragraphs, we will try to explain the ideas around running the Hackolade CLI inside a Docker container with a few specific examples. 
 ### A. Reverse Engineering MongoDB atlas based on connection file
 Connection file is created and exported from Hackolade Studio UI: `Atlas_MONGODB_connection.bin`
 #### First run: reverse engineering to a file
