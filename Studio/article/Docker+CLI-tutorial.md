@@ -54,7 +54,7 @@ docker build --no-cache -f Dockerfile.plugins -t hackolade:latest .
 ```
 
 _**Note that I did have to do a little bit of tweaking on my Mac afterwards. When I was running some of the commands below, I was regularly running into "Segmentation faults", which would sometimes (almost 1 in 2 runs) block me from using the software. So I needed a solution, and I found it by doing the following: I had to __disable the "virtualisation framework"__ in my Docker installation. Once I did that, the errors were history.**_
-![](./1-dockersetting.png)
+![](./screenshots/1-dockersetting.png)
 
 
 Using the following command, I could actually checking install:
@@ -68,7 +68,7 @@ docker compose run --rm hackoladeStudioCLI version;
 In the next few paragraphs, we will try to explain the ideas around running the Hackolade CLI inside a Docker container with a few specific examples. 
 ### A. Reverse Engineering MongoDB atlas based on connection file
 The first thing that we want to explore, is the automatic, docker-based reverse engineering of a data model that is "_in production_" in a particular database instance, in this case a [MongoDB Atlas](https://www.mongodb.com/atlas) database. To do that, I need some kind of a connection to that database, and that means that I would need the credentials. In Hackolade, there is a really nice and easy way to do that: you leverage a "connection file" (see below) that you export from the Hackolade Studio user interface:
-![](./2-atlasconnection.png)
+![](./screenshots/2-atlasconnection.png)
 This connection file is created and exported from Hackolade Studio UI: `Atlas_MONGODB_connection.bin`, and is then placed in the local Docker data structure that you can find in the `./data/` directory of this repo. So let's do a first run and give it a try.
 #### First run: reverse engineering to a file
 From the `/Users/rvanbruggen/Documents/GitHub/docker/Studio` directory, we are going to run the following command
@@ -76,17 +76,17 @@ From the `/Users/rvanbruggen/Documents/GitHub/docker/Studio` directory, we are g
 docker compose run --rm hackoladeStudioCLI revEng --target=MONGODB --connectFile=/home/hackolade/Documents/data/mongodb_atlas/Atlas_MONGODB_connection.bin --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --selectedObjects="sample_mflix" --inferRelationships=true --samplingValue=10;
 ```
 This command will run, as if it was actually running in our local CLI - but it is actually running inside the docker container. 
-![](./3-firstrun.png)
+![](./screenshots/3-firstrun.png)
 
 After a few seconds, the model will have been created in the location specified above, and we can open the file using the Hackolade Studio:
-![](./4-reveng_mongodb_mflix.png)
+![](./screenshots/4-reveng_mongodb_mflix.png)
 
 This seems to have worked really well. Remember that this is a completely automatable step - one that we could for example trigger from a pipeline or a GitHub Action or something similar.
 #### Intermediate step: using Compass
 Using MongoDB compass, we can make a change to the `sample_mflix` database and add a collection that has one or two attributes. In this case I am adding the `animals` collection:
-![](5-createcollection.png)
+![](./screenshots/5-createcollection.png)
 and adding a few sample documents to it in Compass:
-![](6-addanimals.png)
+![](./screenshots/6-addanimals.png)
 So now we have actually made some structural and specific changes to the database, that are no longer in sync with the model that we had generated through reverse engineering above. Time for another run!
 #### Second run: reverse engineering the modified MongoDB Atlas database
 In the second run, we execute exactly the same command, but we create a separate and second model from the reverse engineering:
@@ -94,7 +94,7 @@ In the second run, we execute exactly the same command, but we create a separate
 docker compose run --rm hackoladeStudioCLI revEng --target=MONGODB --connectFile=/home/hackolade/Documents/data/mongodb_atlas/Atlas_MONGODB_connection.bin --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix_v2.hck.json --selectedObjects="sample_mflix" --inferRelationships=true --samplingValue=10;
 ```
 As you can see, we have reverse-engineered a new version of the model:
-![](./7-mongodb_mflix_version2.png)
+![](./screenshots/7-mongodb_mflix_version2.png)
 
 Again: all of this has been automated and can be scheduled through the use of pipelines. 
 
@@ -106,7 +106,7 @@ docker compose run --rm hackoladeStudioCLI compMod --model1=/home/hackolade/Docu
 ```
 
 As you can see below, the delta model has indeed detected the change between models, accurately:
-![](./8-deltamodel.png)
+![](./screenshots/8-deltamodel.png)
 
 The idea here, would of course be that - if such an inadvertent or potentially malicious change would be detected between different versions of the datamodel, there would again be some automatic triggers that would happen and that would for example notify the appropriate governance organisation, etc.
 
@@ -117,13 +117,13 @@ We can use the docker-based CLI to automatically generate documentation for our 
 docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=pdf --doc=/home/hackolade/Documents/data/mongodb_atlas/docker_mongo_atlas_doc.pdf;
 ```
 
-![](9-pdf_dox.png)
+![](./screenshots/9-pdf_dox.png)
 
 #### ii. HTML documentation for the Atlas MongoDB Mflix model
 ```
 docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=html --doc=/home/hackolade/Documents/data/mongodb_atlas/docker_mongo_atlas_doc.html;
 ```
-![](10-html_dox.png)
+![](./screenshots/10-html_dox.png)
 
 ## 4. Conclusion and wrap-up
 The above example shows how to run different scenario commands from the Hackolade Command-Line-Interface installed in a Docker container. 
