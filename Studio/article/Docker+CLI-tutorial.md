@@ -108,21 +108,32 @@ As you can see below, the delta model has indeed detected the change between mod
 The idea here, would of course be that - if such an inadvertent or potentially malicious change would be detected between different versions of the datamodel, there would again be some automatic triggers that would happen and that would for example notify the appropriate governance organisation, etc.
 
 ### C. Generate documentation in pdf and html format
-We can use the docker-based CLI to automatically generate documentation for our models.
+We can use the docker-based CLI to automatically generate documentation for our models. We can also use this as part of a pipeline: every time a pipeline detects that a new version of a data model has been committed to the Git repository, it can trigger a documentation generation activity in a docker script. Hackolade supports documentation generation in html, pdf and markdown format - each with their own specific use cases. Let's explore these.
 #### i. PDF documentation for the Atlas MongoDB Mflix model
+Using the following command, we will generate a PDF documentation for the MongoDB model that we had reverse-engineered above.
+
 ```
 docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=pdf --doc=/home/hackolade/Documents/data/mongodb_atlas/docker_mongo_atlas_doc.pdf;
 ```
-
+This then creates the following PDF file:
 ![](./screenshots/9-pdf_dox.png)
-
+Let's now explore the documentation generation into an HTML page.
 #### ii. HTML documentation for the Atlas MongoDB Mflix model
+Using the following command, we will generate an HTML page for the MongoDB model that we had reverse-engineered above. Note that the HTML page is of a specific format, that includes all the required images packaged into the HTML file - there are no separate image files needed to publish this page on an intranet, website, sharepoint server. 
 ```
 docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=html --doc=/home/hackolade/Documents/data/mongodb_atlas/docker_mongo_atlas_doc.html;
 ```
 ![](./screenshots/10-html_dox.png)
 
-## 4. Conclusion and wrap-up
-The above example shows how to run different scenario commands from the Hackolade Command-Line-Interface installed in a Docker container. 
+This wraps up our examples of documentation generation with the Docker based command-line-interface of Hackolade.
 
-This can be tied into an entire DevOps pipeline using workflow automation like for example Github Actions: see for example https://docs.github.com/en/actions/creating-actions/about-custom-actions and https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action. This allows for automated and increased governance processes on top of our data models and schemas.
+## 4. Conclusion and wrap-up
+With the above examples, we have tried to show you how you can run different scenario commands from the Hackolade Command-Line-Interface installed in a Docker container. As we mentioned at the start, the great value of this system lies in the fact that this can be tied into an entire DevOps pipeline using workflow automation like for example 
+* [Github Actions](https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action)
+* [Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/)
+* [Bitbucket Pipelines](https://support.atlassian.com/bitbucket-cloud/docs/run-docker-commands-in-bitbucket-pipelines/)
+* [GitLab CI/CD](https://docs.gitlab.com/runner/executors/docker.html)
+
+Again: this allows for automated and increased governance processes on top of our data models and schemas, which will help our overall mission of reconciling business and IT through a shared understanding of the meaning and context of data.
+
+Thank you for your attention - we hope that this was useful.
