@@ -129,6 +129,7 @@ This wraps up our examples of documentation generation with the Docker based com
 
 ## 4. Conclusion and wrap-up
 With the above examples, we have tried to show you how you can run different scenario commands from the Hackolade Command-Line-Interface installed in a Docker container. As we mentioned at the start, the great value of this system lies in the fact that this can be tied into an entire DevOps pipeline using workflow automation like for example 
+
 * [Github Actions](https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action)
 * [Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/)
 * [Bitbucket Pipelines](https://support.atlassian.com/bitbucket-cloud/docs/run-docker-commands-in-bitbucket-pipelines/)
