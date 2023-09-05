@@ -1,14 +1,14 @@
-Tue Sep 05 2023 10:11:34 GMT+0000 (Coordinated Universal Time)
+Tue Sep 05 2023 10:27:10 GMT+0000 (Coordinated Universal Time)
 Application: opened.
 
-Tue Sep 05 2023 10:11:34 GMT+0000 (Coordinated Universal Time)
+Tue Sep 05 2023 10:27:10 GMT+0000 (Coordinated Universal Time)
 Application version: 6.10.15 (desktop)
 
 System information:
- Hostname:  b7003e0d123a
+ Hostname:  87c64347401a
  Platform:  linux x64
  Release:   5.15.49-linuxkit-pr
- Uptime:    0:29
+ Uptime:    0:45
  Total RAM: 15.88 GB
  CPU Model: Intel(R) Core(TM) i7-1068NG7 CPU @ 2.30GHz
  CPU Clock: 2300 MHZ
@@ -16,12 +16,8 @@ System information:
 
 
 
-Tue Sep 05 2023 10:11:34 GMT+0000 (Coordinated Universal Time), INFO, Proxy settings: {"type":"system"}
+Tue Sep 05 2023 10:27:10 GMT+0000 (Coordinated Universal Time), INFO, {"pluginInformation":null,"appTarget":"MONGODB"}
 
-Tue Sep 05 2023 10:11:38 GMT+0000 (Coordinated Universal Time), INFO, {"pluginInformation":null,"appTarget":"MONGODB"}
-
-Tue Sep 05 2023 10:11:38 GMT+0000 (Coordinated Universal Time), INFO, {"pluginInformation":null,"appTarget":"MONGODB"}
-
-Tue Sep 05 2023 10:11:39 GMT+0000 (Coordinated Universal Time)
+Tue Sep 05 2023 10:27:22 GMT+0000 (Coordinated Universal Time)
 Application: closed.
 

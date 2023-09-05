@@ -108,45 +108,24 @@ docker compose run --rm hackoladeStudioCLI compMod --model1=/home/hackolade/Docu
 As you can see below, the delta model has indeed detected the change between models, accurately:
 ![](./8-deltamodel.png)
 
+The idea here, would of course be that - if such an inadvertent or potentially malicious change would be detected between different versions of the datamodel, there would again be some automatic triggers that would happen and that would for example notify the appropriate governance organisation, etc.
 
-### C. Generate documentation in pdf format
+### C. Generate documentation in pdf and html format
 We can use the docker-based CLI to automatically generate documentation for our models.
-#### i. For Neo4j model
+#### i. PDF documentation for the Atlas MongoDB Mflix model
 ```
-docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/neo4j/neo4j.hck.json --format=pdf --doc=/home/hackolade/Documents/data/neo4j/neo4jdoc.pdf;
-```
-#### ii. For old existing Mongo model
-```
-docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb/mongo.hck.json --format=pdf --doc=/home/hackolade/Documents/data/mongodb/mongodoc.pdf;
-```
-#### iii. For Atlas Mongo model
-```
-docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=pdf --doc=/home/hackolade/Documents/data/mongodb_atlas/mongo_atlas_doc.pdf;
+docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=pdf --doc=/home/hackolade/Documents/data/mongodb_atlas/docker_mongo_atlas_doc.pdf;
 ```
 
-### D. Generate documentation in html format
+![](9-pdf_dox.png)
 
-#### i. For Neo4j
+#### ii. HTML documentation for the Atlas MongoDB Mflix model
 ```
-docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/neo4j/neo4j.hck.json --format=html --doc=/home/hackolade/Documents/data/neo4j/neo4jdoc.html;
+docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=html --doc=/home/hackolade/Documents/data/mongodb_atlas/docker_mongo_atlas_doc.html;
 ```
-#### ii. For old existing Mongo model
-```
-docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb/mongo.hck.json --format=html --doc=/home/hackolade/Documents/data/mongodb/mongodoc.html;
-```
-#### iii. For Atlas Mongo model
-```
-docker compose run --rm hackoladeStudioCLI genDoc --model=/home/hackolade/Documents/data/mongodb_atlas/docker_reveng_mongodb-atlas-mflix.hck.json --format=html --doc=/home/hackolade/Documents/data/mongodb_atlas/mongo_atlas_doc.html;
-```
-
+![](10-html_dox.png)
 
 ## 4. Conclusion and wrap-up
 The above example shows how to run different scenario commands from the Hackolade Command-Line-Interface installed in a Docker container. 
 
 This can be tied into an entire DevOps pipeline using workflow automation like for example Github Actions: see for example https://docs.github.com/en/actions/creating-actions/about-custom-actions and https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action. This allows for automated and increased governance processes on top of our data models and schemas.
-
-
-
-
-
-## 5. Working with a Cron-job
