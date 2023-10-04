@@ -1,11 +1,11 @@
-Wed Oct 04 2023 10:40:25 GMT+0000 (Coordinated Universal Time)
+Wed Oct 04 2023 14:07:41 GMT+0000 (Coordinated Universal Time)
 Application: opened.
 
-Wed Oct 04 2023 10:40:25 GMT+0000 (Coordinated Universal Time)
+Wed Oct 04 2023 14:07:41 GMT+0000 (Coordinated Universal Time)
 Application version: 6.11.3 (desktop)
 
 System information:
- Hostname:  d01e4fedc697
+ Hostname:  3f22565f3ef7
  Platform:  linux x64
  Release:   5.15.49-linuxkit-pr
  Uptime:    0:00
@@ -16,10 +16,20 @@ System information:
 
 
 
-Wed Oct 04 2023 10:40:25 GMT+0000 (Coordinated Universal Time), INFO, Proxy settings: {"type":"system"}
+Wed Oct 04 2023 14:07:41 GMT+0000 (Coordinated Universal Time), INFO, Proxy settings: {"type":"system"}
 
-Wed Oct 04 2023 10:40:29 GMT+0000 (Coordinated Universal Time), INFO, {"pluginInformation":null,"appTarget":"MONGODB"}
+Wed Oct 04 2023 14:07:42 GMT+0000 (Coordinated Universal Time), INFO, {"pluginInformation":null,"appTarget":"MONGODB"}
 
-Wed Oct 04 2023 10:40:30 GMT+0000 (Coordinated Universal Time)
+Wed Oct 04 2023 14:07:45 GMT+0000 (Coordinated Universal Time), INFO, {"pluginInformation":null,"appTarget":"MONGODB"}
+
+Wed Oct 04 2023 14:07:48 GMT+0000 (Coordinated Universal Time)
+Wed Oct 04 2023 14:07:48 GMT+0000 (Coordinated Universal Time), INFO, UndoRedo, operation: doInitialSnapshot
+
+
+Wed Oct 04 2023 14:07:50 GMT+0000 (Coordinated Universal Time)
+Wed Oct 04 2023 14:07:50 GMT+0000 (Coordinated Universal Time), INFO, UndoRedo, operation: saveCurrentState, type: saveCurrentState, actions index: 0
+
+
+Wed Oct 04 2023 14:07:51 GMT+0000 (Coordinated Universal Time)
 Application: closed.
 

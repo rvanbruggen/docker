@@ -1,0 +1,1080 @@
+Date: Wed Oct 04 2023 14:07:43 GMT+0000 (Coordinated Universal Time)
+Application version: 6.11.3
+Application target: MONGODB
+Plugin version: [not specified]
+
+System information:
+ Hostname:  3f22565f3ef7
+ Platform:  linux x64
+ Release:   5.15.49-linuxkit-pr
+ Uptime:    0:00
+ Total RAM: 15.88 GB
+ CPU Model: Intel(R) Core(TM) i7-1068NG7 CPU @ 2.30GHz
+ CPU Clock: 2300 MHZ
+ CPU Cores: 2 cores
+
+2023-10-04T14:07:43.615Z | Reverse-Engineering options (show collection list):
+{}
+
+2023-10-04T14:07:43.621Z | Reverse-Engineering connection settings:
+{
+  "name": "Atlas",
+  "connectionSourceType": "database",
+  "target": "MONGODB",
+  "authType": "Username / Password",
+  "sslType": "SYSTEMCA",
+  "connectionType": "Replica set or Sharded cluster",
+  "mongodb_username": "rikathackolade",
+  "mongodb_password": "*****",
+  "mongodb_auth_source": "admin",
+  "readPreference": "primary",
+  "sshAuthMethod": "IDENTITY_FILE",
+  "hosts": [
+    {
+      "host": "ac-94jiczk-shard-00-00.zgmdkle.mongodb.net",
+      "port": 27017
+    },
+    {
+      "host": "ac-94jiczk-shard-00-01.zgmdkle.mongodb.net",
+      "port": 27017
+    },
+    {
+      "host": "ac-94jiczk-shard-00-02.zgmdkle.mongodb.net",
+      "port": 27017
+    }
+  ],
+  "replicaSet": "atlas-pifa53-shard-0",
+  "tempFolder": "/home/hackolade/.hackolade/tmp",
+  "appVersion": "6.11.3"
+}
+
+2023-10-04T14:07:43.623Z | Reverse-Engineering connection params:
+{
+  "url": "mongodb://rikathackolade:*****@ac-94jiczk-shard-00-00.zgmdkle.mongodb.net:27017,ac-94jiczk-shard-00-01.zgmdkle.mongodb.net:27017,ac-94jiczk-shard-00-02.zgmdkle.mongodb.net:27017/admin?authSource=admin&replicaSet=atlas-pifa53-shard-0&readPreference=primary&directConnection=false&loadBalanced=false&ssl=true",
+  "options": {
+    "tlsAllowInvalidHostnames": false,
+    "sslValidate": true,
+    "readPreference": "primary",
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true
+  }
+}
+
+2023-10-04T14:07:44.214Z | MongoDB client info:
+{
+  "version": "6.0.10",
+  "gitVersion": "8e4b5670df9b9fe814e57cb5f3f8ee9407237b5a",
+  "modules": [
+    "enterprise"
+  ],
+  "allocator": "tcmalloc",
+  "javascriptEngine": "mozjs",
+  "sysInfo": "deprecated",
+  "versionArray": [
+    6,
+    0,
+    10,
+    0
+  ],
+  "bits": 64,
+  "debug": false,
+  "maxBsonObjectSize": 16777216,
+  "storageEngines": [
+    "devnull",
+    "ephemeralForTest",
+    "inMemory",
+    "queryable_wt",
+    "wiredTiger"
+  ],
+  "ok": 1,
+  "$clusterTime": {
+    "clusterTime": {
+      "$timestamp": "7286104772883513348"
+    },
+    "signature": {
+      "hash": {
+        "sub_type": 0,
+        "buffer": {
+          "type": "Buffer",
+          "data": [
+            110,
+            104,
+            55,
+            76,
+            230,
+            94,
+            248,
+            235,
+            239,
+            86,
+            169,
+            208,
+            223,
+            126,
+            131,
+            192,
+            27,
+            20,
+            57,
+            5
+          ]
+        },
+        "position": 20
+      },
+      "keyId": {
+        "low": 23,
+        "high": 1688562638,
+        "unsigned": false
+      }
+    }
+  },
+  "operationTime": {
+    "$timestamp": "7286104772883513348"
+  }
+}
+
+2023-10-04T14:07:44.220Z | Read preference info:
+{
+  "mode": "primary"
+}
+
+2023-10-04T14:07:44.296Z | User info:
+{
+  "_id": "admin.rikathackolade",
+  "user": "rikathackolade",
+  "db": "admin",
+  "roles": [
+    {
+      "role": "readWriteAnyDatabase",
+      "db": "admin"
+    }
+  ]
+}
+
+2023-10-04T14:07:44.302Z | General database list:
+{
+  "0": "MockDatabase",
+  "1": "Northwind",
+  "2": "sample_airbnb",
+  "3": "sample_analytics",
+  "4": "sample_geospatial",
+  "5": "sample_guides",
+  "6": "sample_mflix",
+  "7": "sample_restaurants",
+  "8": "sample_supplies",
+  "9": "sample_training",
+  "10": "sample_weatherdata",
+  "11": "test",
+  "length": 12
+}
+
+2023-10-04T14:07:44.308Z | Collection list:
+{
+  "message": "Getting collections from database: MockDatabase"
+}
+
+2023-10-04T14:07:44.315Z | Collection list:
+{
+  "message": "Getting collections from database: Northwind"
+}
+
+2023-10-04T14:07:44.318Z | Collection list:
+{
+  "message": "Getting collections from database: sample_airbnb"
+}
+
+2023-10-04T14:07:44.322Z | Collection list:
+{
+  "message": "Getting collections from database: sample_analytics"
+}
+
+2023-10-04T14:07:44.324Z | Collection list:
+{
+  "message": "Getting collections from database: sample_geospatial"
+}
+
+2023-10-04T14:07:44.327Z | Collection list:
+{
+  "message": "Getting collections from database: sample_guides"
+}
+
+2023-10-04T14:07:44.329Z | Collection list:
+{
+  "message": "Getting collections from database: sample_mflix"
+}
+
+2023-10-04T14:07:44.331Z | Collection list:
+{
+  "message": "Getting collections from database: sample_restaurants"
+}
+
+2023-10-04T14:07:44.333Z | Collection list:
+{
+  "message": "Getting collections from database: sample_supplies"
+}
+
+2023-10-04T14:07:44.334Z | Collection list:
+{
+  "message": "Getting collections from database: sample_training"
+}
+
+2023-10-04T14:07:44.336Z | Collection list:
+{
+  "message": "Getting collections from database: sample_weatherdata"
+}
+
+2023-10-04T14:07:44.337Z | Collection list:
+{
+  "message": "Getting collections from database: test"
+}
+
+2023-10-04T14:07:44.374Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "Person",
+    "Address"
+  ]
+}
+
+2023-10-04T14:07:44.413Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "transactions",
+    "accounts",
+    "customers"
+  ]
+}
+
+2023-10-04T14:07:44.471Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "shipwrecks"
+  ]
+}
+
+2023-10-04T14:07:44.505Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "planets"
+  ]
+}
+
+2023-10-04T14:07:44.545Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "movies",
+    "comments",
+    "users",
+    "sessions",
+    "theaters"
+  ]
+}
+
+2023-10-04T14:07:44.591Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "neighborhoods",
+    "restaurants"
+  ]
+}
+
+2023-10-04T14:07:44.618Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "orders",
+    "shippers",
+    "customers",
+    "employees",
+    "products",
+    "categories",
+    "suppliers"
+  ]
+}
+
+2023-10-04T14:07:44.630Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "posts",
+    "zips",
+    "routes",
+    "grades",
+    "trips",
+    "inspections",
+    "companies"
+  ]
+}
+
+2023-10-04T14:07:44.651Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "data"
+  ]
+}
+
+2023-10-04T14:07:44.659Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "listingsAndReviews"
+  ]
+}
+
+2023-10-04T14:07:44.689Z | General collection list:
+{
+  "database": "MockDatabase",
+  "collections": [
+    "Person",
+    "Address"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.723Z | General collection list:
+{
+  "database": "sample_analytics",
+  "collections": [
+    "transactions",
+    "accounts",
+    "customers"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.740Z | General collection list:
+{
+  "database": "sample_guides",
+  "collections": [
+    "planets"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.743Z | General collection list:
+{
+  "database": "sample_geospatial",
+  "collections": [
+    "shipwrecks"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.801Z | General collection list:
+{
+  "database": "sample_mflix",
+  "collections": [
+    "movies",
+    "comments",
+    "users",
+    "sessions",
+    "theaters"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.831Z | General collection list:
+{
+  "database": "sample_restaurants",
+  "collections": [
+    "neighborhoods",
+    "restaurants"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.889Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "sales"
+  ]
+}
+
+2023-10-04T14:07:44.907Z | Collection list:
+{
+  "message": "Filter collections without access",
+  "collectionNames": [
+    "accounts"
+  ]
+}
+
+2023-10-04T14:07:44.980Z | General collection list:
+{
+  "database": "sample_training",
+  "collections": [
+    "posts",
+    "zips",
+    "routes",
+    "grades",
+    "trips",
+    "inspections",
+    "companies"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.987Z | General collection list:
+{
+  "database": "sample_weatherdata",
+  "collections": [
+    "data"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:44.993Z | General collection list:
+{
+  "database": "sample_airbnb",
+  "collections": [
+    "listingsAndReviews"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:45.011Z | General collection list:
+{
+  "database": "test",
+  "collections": [
+    "accounts"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:45.014Z | General collection list:
+{
+  "database": "sample_supplies",
+  "collections": [
+    "sales"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:45.157Z | General collection list:
+{
+  "database": "Northwind",
+  "collections": [
+    "orders",
+    "shippers",
+    "customers",
+    "employees",
+    "products",
+    "categories",
+    "suppliers"
+  ],
+  "views": []
+}
+
+2023-10-04T14:07:45.191Z | Reverse-Engineering options (upload collections):
+{
+  "includeEmptyCollection": false,
+  "includeSystemCollection": false,
+  "query": "{}",
+  "sort": "{}"
+}
+
+2023-10-04T14:07:45.193Z | Reverse-Engineering sampling params:
+{
+  "recordSampling": "absolute 10 records max",
+  "fieldInference": "keep field order"
+}
+
+2023-10-04T14:07:45.195Z | Selected database list:
+{
+  "0": "sample_mflix",
+  "length": 1
+}
+
+2023-10-04T14:07:45.231Z | MongoDB client info:
+{
+  "version": "6.0.10",
+  "gitVersion": "8e4b5670df9b9fe814e57cb5f3f8ee9407237b5a",
+  "modules": [
+    "enterprise"
+  ],
+  "allocator": "tcmalloc",
+  "javascriptEngine": "mozjs",
+  "sysInfo": "deprecated",
+  "versionArray": [
+    6,
+    0,
+    10,
+    0
+  ],
+  "bits": 64,
+  "debug": false,
+  "maxBsonObjectSize": 16777216,
+  "storageEngines": [
+    "devnull",
+    "ephemeralForTest",
+    "inMemory",
+    "queryable_wt",
+    "wiredTiger"
+  ],
+  "ok": 1,
+  "$clusterTime": {
+    "clusterTime": {
+      "$timestamp": "7286104777178480645"
+    },
+    "signature": {
+      "hash": {
+        "sub_type": 0,
+        "buffer": {
+          "type": "Buffer",
+          "data": [
+            126,
+            129,
+            211,
+            67,
+            69,
+            219,
+            167,
+            190,
+            232,
+            169,
+            58,
+            195,
+            247,
+            99,
+            27,
+            194,
+            185,
+            199,
+            89,
+            251
+          ]
+        },
+        "position": 20
+      },
+      "keyId": {
+        "low": 23,
+        "high": 1688562638,
+        "unsigned": false
+      }
+    }
+  },
+  "operationTime": {
+    "$timestamp": "7286104777178480645"
+  }
+}
+
+2023-10-04T14:07:45.235Z | Selected collection list:
+{
+  "database": "sample_mflix",
+  "collections": [
+    "movies",
+    "comments",
+    "users",
+    "sessions",
+    "theaters"
+  ]
+}
+
+2023-10-04T14:07:45.319Z | Collection indexes: sample_mflix.sessions:
+{
+  "0": {
+    "v": 2,
+    "key": {
+      "_id": 1
+    },
+    "name": "_id_"
+  },
+  "1": {
+    "v": 2,
+    "key": {
+      "user_id": 1
+    },
+    "name": "user_id_1",
+    "unique": true
+  },
+  "length": 2
+}
+
+2023-10-04T14:07:45.326Z | Collection indexes: sample_mflix.movies:
+{
+  "0": {
+    "v": 2,
+    "key": {
+      "_id": 1
+    },
+    "name": "_id_"
+  },
+  "1": {
+    "v": 2,
+    "key": {
+      "_fts": "text",
+      "_ftsx": 1
+    },
+    "name": "cast_text_fullplot_text_genres_text_title_text",
+    "weights": {
+      "cast": 1,
+      "fullplot": 1,
+      "genres": 1,
+      "title": 1
+    },
+    "default_language": "english",
+    "language_override": "language",
+    "textIndexVersion": 3
+  },
+  "length": 2
+}
+
+2023-10-04T14:07:45.331Z | Collection indexes: sample_mflix.comments:
+{
+  "0": {
+    "v": 2,
+    "key": {
+      "_id": 1
+    },
+    "name": "_id_"
+  },
+  "length": 1
+}
+
+2023-10-04T14:07:45.336Z | Collection indexes: sample_mflix.users:
+{
+  "0": {
+    "v": 2,
+    "key": {
+      "_id": 1
+    },
+    "name": "_id_"
+  },
+  "1": {
+    "v": 2,
+    "key": {
+      "email": 1
+    },
+    "name": "email_1",
+    "unique": true
+  },
+  "length": 2
+}
+
+2023-10-04T14:07:45.339Z | Collection indexes: sample_mflix.theaters:
+{
+  "0": {
+    "v": 2,
+    "key": {
+      "_id": 1
+    },
+    "name": "_id_"
+  },
+  "1": {
+    "v": 2,
+    "key": {
+      "location.geo": "2dsphere"
+    },
+    "name": "geo index",
+    "2dsphereIndexVersion": 3
+  },
+  "length": 2
+}
+
+2023-10-04T14:07:45.364Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions",
+  "process": "get data from database"
+}
+
+2023-10-04T14:07:45.366Z | Number of documents in collection:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "sessions",
+  "count": 1
+}
+
+2023-10-04T14:07:45.370Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies",
+  "process": "get data from database"
+}
+
+2023-10-04T14:07:45.371Z | Number of documents in collection:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "movies",
+  "count": 23530
+}
+
+2023-10-04T14:07:45.380Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users",
+  "process": "get data from database"
+}
+
+2023-10-04T14:07:45.382Z | Number of documents in collection:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "users",
+  "count": 185
+}
+
+2023-10-04T14:07:45.385Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments",
+  "process": "get data from database"
+}
+
+2023-10-04T14:07:45.386Z | Number of documents in collection:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "comments",
+  "count": 41079
+}
+
+2023-10-04T14:07:45.390Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters",
+  "process": "get data from database"
+}
+
+2023-10-04T14:07:45.391Z | Number of documents in collection:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "theaters",
+  "count": 1564
+}
+
+2023-10-04T14:07:45.408Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions",
+  "process": "collection sampling"
+}
+
+2023-10-04T14:07:45.418Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies",
+  "process": "collection sampling"
+}
+
+2023-10-04T14:07:45.422Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users",
+  "process": "collection sampling"
+}
+
+2023-10-04T14:07:45.433Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments",
+  "process": "collection sampling"
+}
+
+2023-10-04T14:07:45.438Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters",
+  "process": "collection sampling"
+}
+
+2023-10-04T14:07:45.554Z | get probabilistic schema from documents: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions"
+}
+
+2023-10-04T14:07:45.628Z | get probabilistic schema from documents: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters"
+}
+
+2023-10-04T14:07:45.683Z | get probabilistic schema from documents: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users"
+}
+
+2023-10-04T14:07:45.718Z | get probabilistic schema from documents: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments"
+}
+
+2023-10-04T14:07:45.855Z | get probabilistic schema from documents: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies"
+}
+
+2023-10-04T14:07:47.300Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions",
+  "process": "get probabilistic schema from documents: finished"
+}
+
+2023-10-04T14:07:47.436Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters",
+  "process": "get probabilistic schema from documents: finished"
+}
+
+2023-10-04T14:07:47.604Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users",
+  "process": "get probabilistic schema from documents: finished"
+}
+
+2023-10-04T14:07:47.653Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments",
+  "process": "get probabilistic schema from documents: finished"
+}
+
+2023-10-04T14:07:47.747Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies",
+  "process": "get probabilistic schema from documents: finished"
+}
+
+2023-10-04T14:07:47.767Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments",
+  "process": "infer relationships"
+}
+
+2023-10-04T14:07:47.786Z | Check document with specific primary keys exists:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "sessions",
+  "primaryKey": "_id",
+  "numberOfForeignKeys": 10
+}
+
+2023-10-04T14:07:47.814Z | Check document with specific primary keys exists:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "theaters",
+  "primaryKey": "_id",
+  "numberOfForeignKeys": 10
+}
+
+2023-10-04T14:07:47.816Z | Check document with specific primary keys exists:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "users",
+  "primaryKey": "_id",
+  "numberOfForeignKeys": 10
+}
+
+2023-10-04T14:07:47.819Z | Check document with specific primary keys exists:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "comments",
+  "primaryKey": "_id",
+  "numberOfForeignKeys": 10
+}
+
+2023-10-04T14:07:47.821Z | Check document with specific primary keys exists:
+{
+  "dbName": "sample_mflix",
+  "collectionName": "movies",
+  "primaryKey": "_id",
+  "numberOfForeignKeys": 10
+}
+
+2023-10-04T14:07:47.904Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies",
+  "process": "infer relationships"
+}
+
+2023-10-04T14:07:47.909Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions",
+  "process": "infer relationships"
+}
+
+2023-10-04T14:07:47.911Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters",
+  "process": "infer relationships"
+}
+
+2023-10-04T14:07:47.913Z | Reverse-Engineering process status:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users",
+  "process": "infer relationships"
+}
+
+2023-10-04T14:07:47.930Z | convert probabilistic schema to JSON Schema: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies"
+}
+
+2023-10-04T14:07:47.933Z | convert probabilistic schema to JSON Schema: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies"
+}
+
+2023-10-04T14:07:47.935Z | convert probabilistic schema to JSON Schema: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments"
+}
+
+2023-10-04T14:07:47.936Z | convert probabilistic schema to JSON Schema: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments"
+}
+
+2023-10-04T14:07:47.938Z | convert probabilistic schema to JSON Schema: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users"
+}
+
+2023-10-04T14:07:47.939Z | convert probabilistic schema to JSON Schema: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users"
+}
+
+2023-10-04T14:07:47.942Z | convert probabilistic schema to JSON Schema: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions"
+}
+
+2023-10-04T14:07:47.943Z | convert probabilistic schema to JSON Schema: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions"
+}
+
+2023-10-04T14:07:47.945Z | convert probabilistic schema to JSON Schema: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters"
+}
+
+2023-10-04T14:07:47.947Z | convert probabilistic schema to JSON Schema: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters"
+}
+
+2023-10-04T14:07:48.365Z | Reordering schema process: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies"
+}
+
+2023-10-04T14:07:48.368Z | Reordering schema process: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "movies"
+}
+
+2023-10-04T14:07:48.370Z | Reordering schema process: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments"
+}
+
+2023-10-04T14:07:48.372Z | Reordering schema process: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "comments"
+}
+
+2023-10-04T14:07:48.374Z | Reordering schema process: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users"
+}
+
+2023-10-04T14:07:48.375Z | Reordering schema process: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "users"
+}
+
+2023-10-04T14:07:48.375Z | Reordering schema process: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions"
+}
+
+2023-10-04T14:07:48.377Z | Reordering schema process: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "sessions"
+}
+
+2023-10-04T14:07:48.378Z | Reordering schema process: started:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters"
+}
+
+2023-10-04T14:07:48.379Z | Reordering schema process: finished:
+{
+  "modelName": "sample_mflix",
+  "collectionName": "theaters"
+}
+
+2023-10-04T14:07:48.381Z | Generate Collection from JSON Schema process: started:
+collection: movies
+
+2023-10-04T14:07:48.420Z | Generate Collection from JSON Schema process: finished:
+collection: movies
+
+2023-10-04T14:07:48.422Z | Generate Collection from JSON Schema process: started:
+collection: comments
+
+2023-10-04T14:07:48.436Z | Generate Collection from JSON Schema process: finished:
+collection: comments
+
+2023-10-04T14:07:48.438Z | Generate Collection from JSON Schema process: started:
+collection: users
+
+2023-10-04T14:07:48.442Z | Generate Collection from JSON Schema process: finished:
+collection: users
+
+2023-10-04T14:07:48.444Z | Generate Collection from JSON Schema process: started:
+collection: sessions
+
+2023-10-04T14:07:48.452Z | Generate Collection from JSON Schema process: finished:
+collection: sessions
+
+2023-10-04T14:07:48.453Z | Generate Collection from JSON Schema process: started:
+collection: theaters
+
+2023-10-04T14:07:48.467Z | Generate Collection from JSON Schema process: finished:
+collection: theaters
+
+2023-10-04T14:07:48.717Z | Import data into application state
+2023-10-04T14:07:49.260Z | Distribution has started
+2023-10-04T14:07:49.262Z | Rearrange collections after reverse-engineering started
+2023-10-04T14:07:49.977Z | Rearrange collections after reverse-engineering finished
+2023-10-04T14:07:49.995Z | Distribution has finished

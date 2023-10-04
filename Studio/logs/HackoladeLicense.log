@@ -4139,3 +4139,61 @@ Major Version: undefined
 Minor Version: undefined
 Application version: 6.11.3
 
+Wed Oct 04 2023 14:07:42 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 14:07:43 GMT+0000 (Coordinated Universal Time)
+Register Activation Key:
+Status: 4
+Result: Your license expires in 28 days.
+Expiry Date: Tue Oct 31 2023 23:59:00 GMT+0000 (Coordinated Universal Time)
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: 
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Features: 64,1
+User Company: 
+User Full Name: Rik Van Bruggen
+User Email: rik@vanbruggen.be
+Product Id: 2
+Major Version: 6
+Minor Version: 0
+Application version: 6.11.3
+
+Wed Oct 04 2023 14:07:50 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 14:07:51 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 14:07:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <computerKey>VMPA0F07004GH1JK8N91216MHGHPNMYDY6CWMKT</computerKey> <result>Activation Key BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK has been deactivated from computer 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1.</result> <resultCode>0</resultCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 14:07:51 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
