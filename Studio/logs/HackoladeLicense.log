@@ -3731,3 +3731,411 @@ Major Version: undefined
 Minor Version: undefined
 Application version: 6.10.15
 
+Wed Oct 04 2023 10:25:09 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:25:09 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:25:11 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:25:12 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:25:12 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
+Wed Oct 04 2023 10:25:36 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:25:36 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:25:36 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:25:37 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:25:37 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
+Wed Oct 04 2023 10:28:07 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:28:07 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:28:08 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:28:08 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:28:08 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
+Wed Oct 04 2023 10:28:55 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:28:56 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:28:56 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:28:56 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:28:56 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
+Wed Oct 04 2023 10:33:19 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:33:19 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: d3b54a24-0ab5-4fa9-aa7c-e26983e83c2b
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:33:21 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:33:21 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:33:21 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
+Wed Oct 04 2023 10:33:21 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:33:22 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:33:22 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:33:22 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:33:22 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
+Wed Oct 04 2023 10:33:38 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:33:38 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:33:39 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:33:39 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:33:39 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
+Wed Oct 04 2023 10:40:26 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:40:27 GMT+0000 (Coordinated Universal Time)
+Register Activation Key Error:
+Status: 256
+Result: Too many users are currently using Hackolade - Please try again later, or talk to your administrator to purchase additional capacity
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+Error: {
+  "status": "Your computer ID does not match the activation key information on our license server."
+}
+
+Wed Oct 04 2023 10:40:30 GMT+0000 (Coordinated Universal Time)
+Using Disaster Recovery Site is disabled:
+Status: undefined
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+
+Wed Oct 04 2023 10:40:30 GMT+0000 (Coordinated Universal Time)
+Release Activation Key Response:
+Status: 200
+Response: <?xml version="1.0" encoding="utf-8"?> <QuickLicenseManager><avkey>BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK</avkey> <computerID>5f85d05f-d0e5-41f7-9aac-780dd70d6ba1</computerID> <error>The license BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK was not activated.</error> <errorCode>216</errorCode> </QuickLicenseManager> 
+
+Wed Oct 04 2023 10:40:30 GMT+0000 (Coordinated Universal Time)
+Release Activation Key:
+Status: undefined
+Result: undefined
+Expiry Date: undefined
+Platform:  linux x64
+Computer Id: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Computer Key: undefined
+Computer Identifier: 5f85d05f-d0e5-41f7-9aac-780dd70d6ba1
+Activation Key: undefined
+Released Activation Key: BMP90E07004GH1JK8N91216PGG8NKU5I93Y78NK
+Product Id: undefined
+Major Version: undefined
+Minor Version: undefined
+Application version: 6.11.3
+
